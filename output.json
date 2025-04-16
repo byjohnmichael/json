@@ -2,7 +2,7 @@
     "issuer_orgs": [
         {
             "display_name": "ABC Corp",
-            "domain": null,
+            "domain": "ABC Corp.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -27,7 +27,7 @@
         },
         {
             "display_name": "NJ Holdings",
-            "domain": null,
+            "domain": "NJ Holdings.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -52,7 +52,7 @@
         },
         {
             "display_name": "Hawaiian Kingdom",
-            "domain": null,
+            "domain": "Hawaiian Kingdom.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -93,7 +93,7 @@
         },
         {
             "display_name": "Liberty City",
-            "domain": null,
+            "domain": "Liberty City.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -134,7 +134,7 @@
         },
         {
             "display_name": "Arete Management Inc ",
-            "domain": null,
+            "domain": "Arete Management Inc .com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -159,7 +159,7 @@
         },
         {
             "display_name": "HTEST",
-            "domain": null,
+            "domain": "HTEST.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -232,7 +232,7 @@
         },
         {
             "display_name": "Assure Fund",
-            "domain": null,
+            "domain": "Assure Fund.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -257,7 +257,7 @@
         },
         {
             "display_name": "World Health Organization",
-            "domain": null,
+            "domain": "World Health Organization.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -394,7 +394,7 @@
         },
         {
             "display_name": "Beans and Rice",
-            "domain": null,
+            "domain": "Beans and Rice.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -419,7 +419,7 @@
         },
         {
             "display_name": "Bitchute DAO",
-            "domain": null,
+            "domain": "Bitchute DAO.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -444,7 +444,7 @@
         },
         {
             "display_name": "BORG",
-            "domain": null,
+            "domain": "BORG.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -469,7 +469,7 @@
         },
         {
             "display_name": "ClearAssure",
-            "domain": null,
+            "domain": "ClearAssure.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -494,7 +494,7 @@
         },
         {
             "display_name": "ClearCellular Limited",
-            "domain": null,
+            "domain": "ClearCellular Limited.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -519,7 +519,7 @@
         },
         {
             "display_name": "ClearEnergy, Inc.",
-            "domain": null,
+            "domain": "ClearEnergy, Inc..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -544,7 +544,7 @@
         },
         {
             "display_name": "ClearCellular, D-Corp.",
-            "domain": null,
+            "domain": "ClearCellular, D-Corp..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -569,7 +569,7 @@
         },
         {
             "display_name": "ClearFoundation, LTD.",
-            "domain": null,
+            "domain": "ClearFoundation, LTD..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -594,7 +594,7 @@
         },
         {
             "display_name": "Bob's Poultry Farm ",
-            "domain": null,
+            "domain": "Bob's Poultry Farm .com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -619,7 +619,7 @@
         },
         {
             "display_name": "Clear Companies",
-            "domain": null,
+            "domain": "Clear Companies.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -644,7 +644,7 @@
         },
         {
             "display_name": "ClearLegal",
-            "domain": null,
+            "domain": "ClearLegal.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -669,7 +669,7 @@
         },
         {
             "display_name": "SuperWallet DAO",
-            "domain": null,
+            "domain": "SuperWallet DAO.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -694,7 +694,7 @@
         },
         {
             "display_name": "DBTC DAO",
-            "domain": null,
+            "domain": "DBTCDAO.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -719,7 +719,7 @@
         },
         {
             "display_name": "D-BUSINESS",
-            "domain": null,
+            "domain": "D-BUSINESS.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -792,7 +792,7 @@
         },
         {
             "display_name": "Cook Islands",
-            "domain": null,
+            "domain": "Cook Islands.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -817,7 +817,7 @@
         },
         {
             "display_name": "DIBI2",
-            "domain": null,
+            "domain": "DIBI2.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -858,7 +858,7 @@
         },
         {
             "display_name": "Mexican Country",
-            "domain": null,
+            "domain": "Mexican Country.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -883,7 +883,7 @@
         },
         {
             "display_name": "Digital Associaton",
-            "domain": null,
+            "domain": "Digital Associaton.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -908,7 +908,7 @@
         },
         {
             "display_name": "Dev Test Org",
-            "domain": null,
+            "domain": "Dev Test Org.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -933,7 +933,7 @@
         },
         {
             "display_name": "Tuvalu",
-            "domain": null,
+            "domain": "Tuvalu.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -990,7 +990,7 @@
         },
         {
             "display_name": "DUSD DAO",
-            "domain": null,
+            "domain": "DUSD DAO.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1015,7 +1015,7 @@
         },
         {
             "display_name": "Costa Rica",
-            "domain": null,
+            "domain": "Costa Rica.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1040,7 +1040,7 @@
         },
         {
             "display_name": "Enable South Pacific",
-            "domain": null,
+            "domain": "Enable South Pacific.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1065,7 +1065,7 @@
         },
         {
             "display_name": "EYES688",
-            "domain": null,
+            "domain": "EYES688.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1090,7 +1090,7 @@
         },
         {
             "display_name": "Proper Farm DLLC",
-            "domain": null,
+            "domain": "Proper Farm DLLC.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1131,7 +1131,7 @@
         },
         {
             "display_name": "Fiji Airways",
-            "domain": null,
+            "domain": "Fiji Airways.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1156,7 +1156,7 @@
         },
         {
             "display_name": "Fiji",
-            "domain": null,
+            "domain": "Fiji.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1181,7 +1181,7 @@
         },
         {
             "display_name": "GR Group",
-            "domain": null,
+            "domain": "GR Group.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1206,7 +1206,7 @@
         },
         {
             "display_name": "Hakodesh & Associates PTY",
-            "domain": null,
+            "domain": "Hakodesh & Associates PTY.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1231,7 +1231,7 @@
         },
         {
             "display_name": "HASH203",
-            "domain": null,
+            "domain": "HASH203.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -1320,7 +1320,7 @@
         },
         {
             "display_name": "JayMail",
-            "domain": null,
+            "domain": "JayMail.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1345,7 +1345,7 @@
         },
         {
             "display_name": "JJIKE",
-            "domain": null,
+            "domain": "JJIKE.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -1370,7 +1370,7 @@
         },
         {
             "display_name": "By John Michael",
-            "domain": null,
+            "domain": "By John Michael.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1427,7 +1427,7 @@
         },
         {
             "display_name": "JNT SPV",
-            "domain": null,
+            "domain": "JNT SPV.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1452,7 +1452,7 @@
         },
         {
             "display_name": "ClearWater, DLLCT.",
-            "domain": null,
+            "domain": "ClearWater, DLLCT..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1477,7 +1477,7 @@
         },
         {
             "display_name": "Lahaina Healing Foundation",
-            "domain": null,
+            "domain": "Lahaina Healing Foundation.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1502,7 +1502,7 @@
         },
         {
             "display_name": "Kaizen, DLLC.",
-            "domain": null,
+            "domain": "Kaizen, DLLC..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1527,7 +1527,7 @@
         },
         {
             "display_name": "Letsgold",
-            "domain": null,
+            "domain": "Letsgold.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1552,7 +1552,7 @@
         },
         {
             "display_name": "Marriott International, Inc.",
-            "domain": null,
+            "domain": "Marriott International, Inc..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1577,7 +1577,7 @@
         },
         {
             "display_name": "Midway Holdings",
-            "domain": null,
+            "domain": "Midway Holdings.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1602,7 +1602,7 @@
         },
         {
             "display_name": "Proper Family Trust",
-            "domain": null,
+            "domain": "Proper Family Trust.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1643,7 +1643,7 @@
         },
         {
             "display_name": "Vikas Org",
-            "domain": null,
+            "domain": "Vikas Org.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1668,7 +1668,7 @@
         },
         {
             "display_name": "Nandro",
-            "domain": null,
+            "domain": "Nandro.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -1709,7 +1709,7 @@
         },
         {
             "display_name": "Rebecca Johnston Foundation",
-            "domain": null,
+            "domain": "Rebecca Johnston Foundation.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1734,7 +1734,7 @@
         },
         {
             "display_name": "Samoa",
-            "domain": null,
+            "domain": "Samoa.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1759,7 +1759,7 @@
         },
         {
             "display_name": "Space Exploration Technologies Corp.",
-            "domain": null,
+            "domain": "Space Exploration Technologies Corp..com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1784,7 +1784,7 @@
         },
         {
             "display_name": "Tuvalu First Bank",
-            "domain": null,
+            "domain": "Tuvalu First Bank.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1809,7 +1809,7 @@
         },
         {
             "display_name": "new org 101",
-            "domain": null,
+            "domain": "new org 101.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1834,7 +1834,7 @@
         },
         {
             "display_name": "org 23",
-            "domain": null,
+            "domain": "org 23.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1875,7 +1875,7 @@
         },
         {
             "display_name": "test organization 11",
-            "domain": null,
+            "domain": "test organization 11.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1916,7 +1916,7 @@
         },
         {
             "display_name": "test 31",
-            "domain": null,
+            "domain": "test 31.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1941,7 +1941,7 @@
         },
         {
             "display_name": "org35",
-            "domain": null,
+            "domain": "org35.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1966,7 +1966,7 @@
         },
         {
             "display_name": "Tonga",
-            "domain": null,
+            "domain": "Tonga.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -1991,7 +1991,7 @@
         },
         {
             "display_name": "TRUSTEEZ",
-            "domain": null,
+            "domain": "TRUSTEEZ.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2016,7 +2016,7 @@
         },
         {
             "display_name": "DDDDD",
-            "domain": null,
+            "domain": "DDDDD.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2089,7 +2089,7 @@
         },
         {
             "display_name": "TuneTag",
-            "domain": null,
+            "domain": "TuneTag.com",
             "website": "https://www.hawaiian.life/",
             "support": null,
             "color": "#8ce5f7",
@@ -2114,7 +2114,7 @@
         },
         {
             "display_name": "Tanzania",
-            "domain": null,
+            "domain": "Tanzania.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2139,7 +2139,7 @@
         },
         {
             "display_name": "Republic of the United States of America",
-            "domain": null,
+            "domain": "Republic of the United States of America.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2164,7 +2164,7 @@
         },
         {
             "display_name": "ClearHomes",
-            "domain": null,
+            "domain": "ClearHomes.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2189,7 +2189,7 @@
         },
         {
             "display_name": "VoteBound",
-            "domain": null,
+            "domain": "VoteBound.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2214,7 +2214,7 @@
         },
         {
             "display_name": "Wally Land",
-            "domain": null,
+            "domain": "Wally Land.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2239,7 +2239,7 @@
         },
         {
             "display_name": "Zellim DINC",
-            "domain": null,
+            "domain": "Zellim DINC.com",
             "website": "https://www.digitalworld.earth/",
             "support": null,
             "color": "#8ce5f7",
@@ -2262,5 +2262,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "build_id": "8852c577b93296fae0656d26f9223865"
 }
