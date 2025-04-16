@@ -26,9 +26,9 @@
       "slug": "NATIVE-native",
       "website": "https://www.stellar.org/lumens/",
       "price_XLM": 1,
-      "price_USD": 0.23455,
-      "volume24h_XLM": 11117750.43,
-      "volume24h_USD": 2607668.35,
+      "price_USD": 0.0,
+      "volume24h_XLM": 0,
+      "volume24h_USD": 0,
       "activityScore": 100
     },
     {
