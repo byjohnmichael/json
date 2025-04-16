@@ -1,0 +1,2517 @@
+{
+  "_meta": {
+    "start": 1744830322,
+    "startISO": "Wed Apr 16 2025 19:05:22 GMT+0000 (Coordinated Universal Time)",
+    "apiLicense": "Apache-2.0",
+    "stellarTermVersion": -1,
+    "horizon": {
+      "core_latest_ledger": 56646215,
+      "network_passphrase": "Public Global Stellar Network ; September 2015"
+    },
+    "externalPrices": {
+      "USD_BTC": 84067.96,
+      "BTC_XLM": 0.00000279,
+      "USD_XLM": 0.23455,
+      "USD_XLM_24hAgo": 0.237222,
+      "USD_XLM_change": -1.126212
+    },
+    "build_id": "8852c577b93296fae0656d26f9223865"
+  },
+  "assets": [
+    {
+      "id": "NATVIE-native",
+      "code": "NATIVE",
+      "issuer": null,
+      "domain": "native",
+      "slug": "NATIVE-native",
+      "website": "https://www.stellar.org/lumens/",
+      "price_XLM": 1,
+      "price_USD": 0.23455,
+      "volume24h_XLM": 11117750.43,
+      "volume24h_USD": 2607668.35,
+      "activityScore": 100
+    },
+    {
+      "id": "yXLM-GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
+      "code": "yXLM",
+      "issuer": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
+      "domain": "ultracapital.xyz",
+      "slug": "yXLM-ultracapital.xyz",
+      "website": "https://ultracapital.xyz/",
+      "topTradePairSlug": "yXLM-ultracapital.xyz/XLM-native",
+      "change24h_XLM": 0.01,
+      "change24h_USD": -1.11,
+      "price_XLM": 0.99974,
+      "price_USD": 0.23449,
+      "numTrades24h": 3446,
+      "_numTradeRecords24h": 95,
+      "volume24h_XLM": 466248.47,
+      "volume24h_USD": 109358.58,
+      "spread": 0.0003,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 8872055,
+      "depth10_USD": 2080940.5,
+      "activityScore": 42.702
+    },
+    {
+      "id": "USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
+      "code": "USDC",
+      "issuer": "GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
+      "domain": "centre.io",
+      "slug": "USDC-centre.io",
+      "website": "https://centre.io/",
+      "topTradePairSlug": "XLM-native/USDC-centre.io",
+      "change24h_XLM": 1.25,
+      "change24h_USD": 0.1,
+      "price_XLM": 4.2508,
+      "price_USD": 0.99702,
+      "numTrades24h": 44694,
+      "_numTradeRecords24h": 95,
+      "volume24h_XLM": 8842834.11,
+      "volume24h_USD": 2074086.74,
+      "spread": 0.0016,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 37096,
+      "depth10_USD": 8700.87,
+      "activityScore": 33.469
+    },
+    {
+      "id": "VELO-GDM4RQUQQUVSKQA7S6EM7XBZP3FCGH4Q7CL6TABQ7B2BEJ5ERARM2M5M",
+      "code": "VELO",
+      "issuer": "GDM4RQUQQUVSKQA7S6EM7XBZP3FCGH4Q7CL6TABQ7B2BEJ5ERARM2M5M",
+      "domain": "velo.org",
+      "slug": "VELO-velo.org",
+      "website": "https://velo.org/",
+      "topTradePairSlug": "VELO-velo.org/XLM-native",
+      "change24h_XLM": -0.44,
+      "change24h_USD": -1.56,
+      "price_XLM": 0.051065,
+      "price_USD": 0.011977,
+      "numTrades24h": 7778,
+      "_numTradeRecords24h": 94,
+      "volume24h_XLM": 430123.06,
+      "volume24h_USD": 100885.36,
+      "spread": 0.0014,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 46438,
+      "depth10_USD": 10892.03,
+      "activityScore": 30.441
+    },
+    {
+      "id": "AQUA-GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA",
+      "code": "AQUA",
+      "issuer": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA",
+      "domain": "aqua.network",
+      "slug": "AQUA-aqua.network",
+      "website": "https://aqua.network/",
+      "topTradePairSlug": "AQUA-aqua.network/XLM-native",
+      "change24h_XLM": 0.1,
+      "change24h_USD": -1.03,
+      "price_XLM": 0.0027374,
+      "price_USD": 0.0006421,
+      "numTrades24h": 6558,
+      "_numTradeRecords24h": 95,
+      "volume24h_XLM": 114398.32,
+      "volume24h_USD": 26832.13,
+      "spread": 0.0091,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 66607,
+      "depth10_USD": 15622.67,
+      "activityScore": 29.406
+    },
+    {
+      "id": "ZUSD-GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
+      "code": "ZUSD",
+      "issuer": "GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
+      "domain": "stablecoin.z.com",
+      "slug": "ZUSD-stablecoin.z.com",
+      "website": "https://stablecoin.z.com/",
+      "topTradePairSlug": "XLM-native/ZUSD-stablecoin.z.com",
+      "change24h_XLM": 1.38,
+      "change24h_USD": 0.24,
+      "price_XLM": 4.2533,
+      "price_USD": 0.9976,
+      "numTrades24h": 901,
+      "_numTradeRecords24h": 77,
+      "volume24h_XLM": 288087.48,
+      "volume24h_USD": 67570.92,
+      "spread": 0.005,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 39658,
+      "depth10_USD": 9301.78,
+      "activityScore": 28.03
+    },
+    {
+      "id": "SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
+      "code": "SHX",
+      "issuer": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
+      "domain": "stronghold.co",
+      "slug": "SHX-stronghold.co",
+      "website": "https://stronghold.co/",
+      "topTradePairSlug": "SHX-stronghold.co/XLM-native",
+      "change24h_XLM": 1.12,
+      "change24h_USD": -0.01,
+      "price_XLM": 0.034843,
+      "price_USD": 0.0081725,
+      "numTrades24h": 3007,
+      "_numTradeRecords24h": 93,
+      "volume24h_XLM": 332543.47,
+      "volume24h_USD": 77998.07,
+      "spread": 0.0065,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 7659,
+      "depth10_USD": 1796.42,
+      "activityScore": 26.957
+    },
+    {
+      "id": "XRP-GBXRPL45NPHCVMFFAYZVUVFFVKSIZ362ZXFP7I2ETNQ3QKZMFLPRDTD5",
+      "code": "XRP",
+      "issuer": "GBXRPL45NPHCVMFFAYZVUVFFVKSIZ362ZXFP7I2ETNQ3QKZMFLPRDTD5",
+      "domain": "fchain.io",
+      "slug": "XRP-fchain.io",
+      "website": "https://fchain.io/",
+      "topTradePairSlug": "XRP-fchain.io/XLM-native",
+      "change24h_XLM": -0.14,
+      "change24h_USD": -1.27,
+      "price_XLM": 8.8688,
+      "price_USD": 2.0802,
+      "numTrades24h": 1981,
+      "_numTradeRecords24h": 89,
+      "volume24h_XLM": 151361.29,
+      "volume24h_USD": 35501.79,
+      "spread": 0.0046,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 3333,
+      "depth10_USD": 781.76,
+      "activityScore": 25.565
+    },
+    {
+      "id": "yUSDC-GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF",
+      "code": "yUSDC",
+      "issuer": "GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF",
+      "domain": "ultracapital.xyz",
+      "slug": "yUSDC-ultracapital.xyz",
+      "website": "https://ultracapital.xyz/",
+      "topTradePairSlug": "yUSDC-ultracapital.xyz/XLM-native",
+      "change24h_XLM": 1.57,
+      "change24h_USD": 0.43,
+      "price_XLM": 4.2664,
+      "price_USD": 1.0007,
+      "numTrades24h": 4918,
+      "_numTradeRecords24h": 95,
+      "volume24h_XLM": 105598.18,
+      "volume24h_USD": 24768.05,
+      "spread": 0.0039,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 445,
+      "depth10_USD": 104.37,
+      "activityScore": 24.519
+    },
+    {
+      "id": "EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
+      "code": "EURC",
+      "issuer": "GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
+      "domain": "circle.com",
+      "slug": "EURC-circle.com",
+      "website": "https://circle.com/",
+      "topTradePairSlug": "XLM-native/EURC-circle.com",
+      "change24h_XLM": 2.37,
+      "change24h_USD": 1.22,
+      "price_XLM": 4.8334,
+      "price_USD": 1.1337,
+      "numTrades24h": 1554,
+      "_numTradeRecords24h": 90,
+      "volume24h_XLM": 48814.37,
+      "volume24h_USD": 11449.41,
+      "spread": 0.0096,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 4804,
+      "depth10_USD": 1126.78,
+      "activityScore": 24.508
+    },
+    {
+      "id": "CNY-GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX",
+      "code": "CNY",
+      "issuer": "GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX",
+      "domain": "ripplefox.com",
+      "slug": "CNY-ripplefox.com",
+      "website": "https://ripplefox.com/",
+      "topTradePairSlug": "CNY-ripplefox.com/XLM-native",
+      "change24h_XLM": 2.59,
+      "change24h_USD": 1.44,
+      "price_XLM": 0.58568,
+      "price_USD": 0.13737,
+      "numTrades24h": 293,
+      "_numTradeRecords24h": 77,
+      "volume24h_XLM": 5627.23,
+      "volume24h_USD": 1319.87,
+      "spread": 0.003,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 22708,
+      "depth10_USD": 5326.16,
+      "activityScore": 23.799
+    },
+    {
+      "id": "SSLX-GBHFGY3ZNEJWLNO4LBUKLYOCEK4V7ENEBJGPRHHX7JU47GWHBREH37UR",
+      "code": "SSLX",
+      "issuer": "GBHFGY3ZNEJWLNO4LBUKLYOCEK4V7ENEBJGPRHHX7JU47GWHBREH37UR",
+      "domain": "sslx.sl8.online",
+      "slug": "SSLX-sslx.sl8.online",
+      "website": "https://sslx.sl8.online/",
+      "topTradePairSlug": "SSLX-sslx.sl8.online/XLM-native",
+      "change24h_XLM": -3.98,
+      "change24h_USD": -5.06,
+      "price_XLM": 0.0051212,
+      "price_USD": 0.0012012,
+      "numTrades24h": 1035,
+      "_numTradeRecords24h": 88,
+      "volume24h_XLM": 36654.41,
+      "volume24h_USD": 8597.29,
+      "spread": 0.0055,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 1437,
+      "depth10_USD": 337.05,
+      "activityScore": 23.392
+    },
+    {
+      "id": "RIO-GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK",
+      "code": "RIO",
+      "issuer": "GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK",
+      "domain": "realio.fund",
+      "slug": "RIO-realio.fund",
+      "website": "https://realio.fund/",
+      "topTradePairSlug": "RIO-realio.fund/XLM-native",
+      "change24h_XLM": -10.34,
+      "change24h_USD": -11.35,
+      "price_XLM": 0.80733,
+      "price_USD": 0.18936,
+      "numTrades24h": 5838,
+      "_numTradeRecords24h": 92,
+      "volume24h_XLM": 57419.54,
+      "volume24h_USD": 13467.75,
+      "spread": 0.018,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 500,
+      "depth10_USD": 117.28,
+      "activityScore": 23.272
+    },
+    {
+      "id": "XTAR-GAORYJ3KBDGIM7FFSKVUJHJ5NEFWIRDIAGGBJBJS7TY6ECZS53257IG4",
+      "code": "XTAR",
+      "issuer": "GAORYJ3KBDGIM7FFSKVUJHJ5NEFWIRDIAGGBJBJS7TY6ECZS53257IG4",
+      "domain": "dogstarcoin.com",
+      "slug": "XTAR-dogstarcoin.com",
+      "website": "https://dogstarcoin.com/",
+      "topTradePairSlug": "XTAR-dogstarcoin.com/XLM-native",
+      "change24h_XLM": 0.36,
+      "change24h_USD": -0.77,
+      "price_XLM": 0.0000837,
+      "price_USD": 0.0000196,
+      "numTrades24h": 4857,
+      "_numTradeRecords24h": 95,
+      "volume24h_XLM": 6496.97,
+      "volume24h_USD": 1523.86,
+      "spread": 0.0142,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 2049,
+      "depth10_USD": 480.59,
+      "activityScore": 22.913
+    },
+    {
+      "id": "AFR-GBX6YI45VU7WNAAKA3RBFDR3I3UKNFHTJPQ5F6KOOKSGYIAM4TRQN54W",
+      "code": "AFR",
+      "issuer": "GBX6YI45VU7WNAAKA3RBFDR3I3UKNFHTJPQ5F6KOOKSGYIAM4TRQN54W",
+      "domain": "afreum.com",
+      "slug": "AFR-afreum.com",
+      "website": "https://afreum.com/",
+      "topTradePairSlug": "AFR-afreum.com/XLM-native",
+      "change24h_XLM": -4.15,
+      "change24h_USD": -5.23,
+      "price_XLM": 0.0027477,
+      "price_USD": 0.0006445,
+      "numTrades24h": 2639,
+      "_numTradeRecords24h": 89,
+      "volume24h_XLM": 12128.31,
+      "volume24h_USD": 2844.7,
+      "spread": 0.006,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 644,
+      "depth10_USD": 151.05,
+      "activityScore": 22.653
+    },
+    {
+      "id": "BTCLN-GDPKQ2TSNJOFSEE7XSUXPWRP27H6GFGLWD7JCHNEYYWQVGFA543EVBVT",
+      "code": "BTCLN",
+      "issuer": "GDPKQ2TSNJOFSEE7XSUXPWRP27H6GFGLWD7JCHNEYYWQVGFA543EVBVT",
+      "domain": "kbtrading.org",
+      "slug": "BTCLN-kbtrading.org",
+      "website": "https://kbtrading.org/",
+      "topTradePairSlug": "BTCLN-kbtrading.org/XLM-native",
+      "change24h_XLM": 1.16,
+      "change24h_USD": 0.02,
+      "price_XLM": 0.0035975,
+      "price_USD": 0.0008438,
+      "numTrades24h": 1349,
+      "_numTradeRecords24h": 86,
+      "volume24h_XLM": 31706.73,
+      "volume24h_USD": 7436.81,
+      "spread": 0.0515,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 5435,
+      "depth10_USD": 1274.78,
+      "activityScore": 21.263
+    },
+    {
+      "id": "SCOP-GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ",
+      "code": "SCOP",
+      "issuer": "GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ",
+      "domain": "scopuly.com",
+      "slug": "SCOP-scopuly.com",
+      "website": "https://scopuly.com/",
+      "topTradePairSlug": "SCOP-scopuly.com/XLM-native",
+      "change24h_XLM": 5.46,
+      "change24h_USD": 4.27,
+      "price_XLM": 0.032034,
+      "price_USD": 0.0075137,
+      "numTrades24h": 1309,
+      "_numTradeRecords24h": 86,
+      "volume24h_XLM": 19752.51,
+      "volume24h_USD": 4632.95,
+      "spread": 0.0329,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 1059,
+      "depth10_USD": 248.39,
+      "activityScore": 21.055
+    },
+    {
+      "id": "SLVR-GBZVELEQD3WBN3R3VAG64HVBDOZ76ZL6QPLSFGKWPFED33Q3234NSLVR",
+      "code": "SLVR",
+      "issuer": "GBZVELEQD3WBN3R3VAG64HVBDOZ76ZL6QPLSFGKWPFED33Q3234NSLVR",
+      "domain": "mintx.co",
+      "slug": "SLVR-mintx.co",
+      "website": "https://mintx.co/",
+      "topTradePairSlug": "SLVR-mintx.co/XLM-native",
+      "change24h_XLM": 2.32,
+      "change24h_USD": 1.17,
+      "price_XLM": 4.7861,
+      "price_USD": 1.1226,
+      "numTrades24h": 334,
+      "_numTradeRecords24h": 61,
+      "volume24h_XLM": 3248.16,
+      "volume24h_USD": 761.86,
+      "spread": 0.0067,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 966,
+      "depth10_USD": 226.58,
+      "activityScore": 20.514
+    },
+    {
+      "id": "PEN-GA4TDPNUCZPTOHB3TKUYMDCRVATXKEADH7ZEYEBWJKQKE2UBFCYNBPEN",
+      "code": "PEN",
+      "issuer": "GA4TDPNUCZPTOHB3TKUYMDCRVATXKEADH7ZEYEBWJKQKE2UBFCYNBPEN",
+      "domain": "api.anclap.com",
+      "slug": "PEN-api.anclap.com",
+      "website": "https://api.anclap.com/",
+      "topTradePairSlug": "XLM-native/PEN-api.anclap.com",
+      "change24h_XLM": 1.12,
+      "change24h_USD": -0.02,
+      "price_XLM": 1.1357,
+      "price_USD": 0.26639,
+      "numTrades24h": 706,
+      "_numTradeRecords24h": 72,
+      "volume24h_XLM": 601.47,
+      "volume24h_USD": 141.07,
+      "spread": 0.003,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 1118,
+      "depth10_USD": 262.23,
+      "activityScore": 20.192
+    },
+    {
+      "id": "KALE-GBDVX4VELCDSQ54KQJYTNHXAHFLBCA77ZY2USQBM4CSHTTV7DME7KALE",
+      "code": "KALE",
+      "issuer": "GBDVX4VELCDSQ54KQJYTNHXAHFLBCA77ZY2USQBM4CSHTTV7DME7KALE",
+      "domain": "kalepail.com",
+      "slug": "KALE-kalepail.com",
+      "website": "https://kalepail.com/",
+      "topTradePairSlug": "KALE-kalepail.com/XLM-native",
+      "change24h_XLM": -22.67,
+      "change24h_USD": -23.54,
+      "price_XLM": 0.0027468,
+      "price_USD": 0.0006443,
+      "numTrades24h": 571,
+      "_numTradeRecords24h": 62,
+      "volume24h_XLM": 13340.3,
+      "volume24h_USD": 3128.97,
+      "spread": 0.0058,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 31,
+      "depth10_USD": 7.2711,
+      "activityScore": 19.652
+    },
+    {
+      "id": "ETH-GBFXOHVAS43OIWNIO7XLRJAHT3BICFEIKOJLZVXNT572MISM4CMGSOCC",
+      "code": "ETH",
+      "issuer": "GBFXOHVAS43OIWNIO7XLRJAHT3BICFEIKOJLZVXNT572MISM4CMGSOCC",
+      "domain": "ultracapital.xyz",
+      "slug": "ETH-ultracapital.xyz",
+      "website": "https://ultracapital.xyz/",
+      "topTradePairSlug": "ETH-ultracapital.xyz/XLM-native",
+      "change24h_XLM": 1.43,
+      "change24h_USD": 0.29,
+      "price_XLM": 6850.15,
+      "price_USD": 1606.7,
+      "numTrades24h": 575,
+      "_numTradeRecords24h": 79,
+      "volume24h_XLM": 20301.74,
+      "volume24h_USD": 4761.77,
+      "spread": 0.0002,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 19.186
+    },
+    {
+      "id": "LSP-GAB7STHVD5BDH3EEYXPI3OM7PCS4V443PYB5FNT6CFGJVPDLMKDM24WK",
+      "code": "LSP",
+      "issuer": "GAB7STHVD5BDH3EEYXPI3OM7PCS4V443PYB5FNT6CFGJVPDLMKDM24WK",
+      "domain": "lumenswap.io",
+      "slug": "LSP-lumenswap.io",
+      "website": "https://lumenswap.io/",
+      "topTradePairSlug": "LSP-lumenswap.io/XLM-native",
+      "change24h_XLM": 0.75,
+      "change24h_USD": -0.39,
+      "price_XLM": 0.0051375,
+      "price_USD": 0.001205,
+      "numTrades24h": 664,
+      "_numTradeRecords24h": 75,
+      "volume24h_XLM": 7897.21,
+      "volume24h_USD": 1852.29,
+      "spread": 0.0437,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 816,
+      "depth10_USD": 191.39,
+      "activityScore": 19.186
+    },
+    {
+      "id": "BTC-GDPJALI4AZKUU2W426U5WKMAT6CN3AJRPIIRYR2YM54TL2GDWO5O2MZM",
+      "code": "BTC",
+      "issuer": "GDPJALI4AZKUU2W426U5WKMAT6CN3AJRPIIRYR2YM54TL2GDWO5O2MZM",
+      "domain": "ultracapital.xyz",
+      "slug": "BTC-ultracapital.xyz",
+      "website": "https://ultracapital.xyz/",
+      "topTradePairSlug": "XLM-native/BTC-ultracapital.xyz",
+      "change24h_XLM": 0,
+      "change24h_USD": -1.13,
+      "price_XLM": 357142.86,
+      "price_USD": 83767.86,
+      "numTrades24h": 389,
+      "_numTradeRecords24h": 67,
+      "volume24h_XLM": 26319.87,
+      "volume24h_USD": 6173.33,
+      "spread": 0,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 19.106
+    },
+    {
+      "id": "FRED-GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6",
+      "code": "FRED",
+      "issuer": "GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6",
+      "domain": "fredenergy.org",
+      "slug": "FRED-fredenergy.org",
+      "website": "https://fredenergy.org/",
+      "topTradePairSlug": "FRED-fredenergy.org/XLM-native",
+      "change24h_XLM": -0.66,
+      "change24h_USD": -1.78,
+      "price_XLM": 0.0012085,
+      "price_USD": 0.0002835,
+      "numTrades24h": 503,
+      "_numTradeRecords24h": 53,
+      "volume24h_XLM": 738.36,
+      "volume24h_USD": 173.18,
+      "spread": 0.0059,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 193,
+      "depth10_USD": 45.268,
+      "activityScore": 18.31
+    },
+    {
+      "id": "USDGLO-GBBS25EGYQPGEZCGCFBKG4OAGFXU6DSOQBGTHELLJT3HZXZJ34HWS6XV",
+      "code": "USDGLO",
+      "issuer": "GBBS25EGYQPGEZCGCFBKG4OAGFXU6DSOQBGTHELLJT3HZXZJ34HWS6XV",
+      "domain": "app.glodollar.org",
+      "slug": "USDGLO-app.glodollar.org",
+      "website": "https://app.glodollar.org/",
+      "topTradePairSlug": "XLM-native/USDGLO-app.glodollar.org",
+      "change24h_XLM": 1.77,
+      "change24h_USD": 0.63,
+      "price_XLM": 4.2472,
+      "price_USD": 0.99618,
+      "numTrades24h": 354,
+      "_numTradeRecords24h": 58,
+      "volume24h_XLM": 2763.88,
+      "volume24h_USD": 648.27,
+      "spread": 0.0022,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 19,
+      "depth10_USD": 4.4565,
+      "activityScore": 18.142
+    },
+    {
+      "id": "ARST-GCSAZVWXZKWS4XS223M5F54H2B6XPIIXZZGP7KEAIU6YSL5HDRGCI3DG",
+      "code": "ARST",
+      "issuer": "GCSAZVWXZKWS4XS223M5F54H2B6XPIIXZZGP7KEAIU6YSL5HDRGCI3DG",
+      "domain": "pubnet-sep.latamex.com",
+      "slug": "ARST-pubnet-sep.latamex.com",
+      "website": "https://pubnet-sep.latamex.com/",
+      "topTradePairSlug": "XLM-native/ARST-pubnet-sep.latamex.com",
+      "change24h_XLM": -0.48,
+      "change24h_USD": -1.6,
+      "price_XLM": 0.0032771,
+      "price_USD": 0.0007686,
+      "numTrades24h": 432,
+      "_numTradeRecords24h": 66,
+      "volume24h_XLM": 10307.61,
+      "volume24h_USD": 2417.65,
+      "spread": 0.0141,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 17.733
+    },
+    {
+      "id": "WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT",
+      "code": "WXT",
+      "issuer": "GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT",
+      "domain": "wxt.wirexapp.com",
+      "slug": "WXT-wxt.wirexapp.com",
+      "website": "https://wxt.wirexapp.com/",
+      "topTradePairSlug": "WXT-wxt.wirexapp.com/XLM-native",
+      "change24h_XLM": -0.29,
+      "change24h_USD": -1.41,
+      "price_XLM": 0.0094416,
+      "price_USD": 0.0022145,
+      "numTrades24h": 166,
+      "_numTradeRecords24h": 62,
+      "volume24h_XLM": 101.82,
+      "volume24h_USD": 23.882,
+      "spread": 0.0051,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 672,
+      "depth10_USD": 157.62,
+      "activityScore": 16.76
+    },
+    {
+      "id": "GOLD-GBC5ZGK6MQU3XG5Y72SXPA7P5R5NHYT2475SNEJB2U3EQ6J56QLVGOLD",
+      "code": "GOLD",
+      "issuer": "GBC5ZGK6MQU3XG5Y72SXPA7P5R5NHYT2475SNEJB2U3EQ6J56QLVGOLD",
+      "domain": "mintx.co",
+      "slug": "GOLD-mintx.co",
+      "website": "https://mintx.co/",
+      "topTradePairSlug": "GOLD-mintx.co/XLM-native",
+      "change24h_XLM": -0.88,
+      "change24h_USD": -2,
+      "price_XLM": 437.33,
+      "price_USD": 102.58,
+      "numTrades24h": 834,
+      "_numTradeRecords24h": 64,
+      "volume24h_XLM": 6698.32,
+      "volume24h_USD": 1571.09,
+      "spread": 0.0635,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 40,
+      "depth10_USD": 9.382,
+      "activityScore": 16.362
+    },
+    {
+      "id": "BRL-GDVKY2GU2DRXWTBEYJJWSFXIGBZV6AZNBVVSUHEPZI54LIS6BA7DVVSP",
+      "code": "BRL",
+      "issuer": "GDVKY2GU2DRXWTBEYJJWSFXIGBZV6AZNBVVSUHEPZI54LIS6BA7DVVSP",
+      "domain": "ntokens.com",
+      "slug": "BRL-ntokens.com",
+      "website": "https://ntokens.com/",
+      "topTradePairSlug": "XLM-native/BRL-ntokens.com",
+      "change24h_XLM": 0.31,
+      "change24h_USD": -0.82,
+      "price_XLM": 0.60962,
+      "price_USD": 0.14299,
+      "numTrades24h": 318,
+      "_numTradeRecords24h": 45,
+      "volume24h_XLM": 2909.21,
+      "volume24h_USD": 682.36,
+      "spread": 0.0058,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 15.725
+    },
+    {
+      "id": "yBTC-GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW",
+      "code": "yBTC",
+      "issuer": "GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW",
+      "domain": "ultracapital.xyz",
+      "slug": "yBTC-ultracapital.xyz",
+      "website": "https://ultracapital.xyz/",
+      "topTradePairSlug": "yBTC-ultracapital.xyz/XLM-native",
+      "change24h_XLM": 0.74,
+      "change24h_USD": -0.4,
+      "price_XLM": 355071.43,
+      "price_USD": 83282,
+      "numTrades24h": 244,
+      "_numTradeRecords24h": 50,
+      "volume24h_XLM": 5624.28,
+      "volume24h_USD": 1319.17,
+      "spread": 0.0274,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 15.56
+    },
+    {
+      "id": "asSOL-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "asSOL",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "asSOL-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "asSOL-allbridge.io/XLM-native",
+      "change24h_XLM": 0.46,
+      "change24h_USD": -0.67,
+      "price_XLM": 547.5,
+      "price_USD": 128.42,
+      "numTrades24h": 302,
+      "_numTradeRecords24h": 36,
+      "volume24h_XLM": 4757.55,
+      "volume24h_USD": 1115.88,
+      "spread": 0.0091,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 11,
+      "depth10_USD": 2.5801,
+      "activityScore": 15.364
+    },
+    {
+      "id": "PALL-GCQ5ZYECTNYW6BZ47AZN6M5BXKV7ZZ24XPNHPSYZVUDVK7CIITOMPALL",
+      "code": "PALL",
+      "issuer": "GCQ5ZYECTNYW6BZ47AZN6M5BXKV7ZZ24XPNHPSYZVUDVK7CIITOMPALL",
+      "domain": "mintx.co",
+      "slug": "PALL-mintx.co",
+      "website": "https://mintx.co/",
+      "topTradePairSlug": "PALL-mintx.co/XLM-native",
+      "change24h_XLM": 3.47,
+      "change24h_USD": 2.3,
+      "price_XLM": 133.77,
+      "price_USD": 31.377,
+      "numTrades24h": 776,
+      "_numTradeRecords24h": 60,
+      "volume24h_XLM": 957,
+      "volume24h_USD": 224.46,
+      "spread": 0.0471,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 14.901
+    },
+    {
+      "id": "XRP-GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "code": "XRP",
+      "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "domain": "stellarport.io",
+      "slug": "XRP-stellarport.io",
+      "website": "https://stellarport.io/",
+      "topTradePairSlug": "XRP-stellarport.io/XLM-native",
+      "change24h_XLM": -0.34,
+      "change24h_USD": -1.47,
+      "price_XLM": 9.0646,
+      "price_USD": 2.1261,
+      "numTrades24h": 107,
+      "_numTradeRecords24h": 38,
+      "volume24h_XLM": 1272.63,
+      "volume24h_USD": 298.5,
+      "spread": 0.0063,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 13.509
+    },
+    {
+      "id": "TFT-GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47",
+      "code": "TFT",
+      "issuer": "GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47",
+      "domain": "threefold.io",
+      "slug": "TFT-threefold.io",
+      "website": "https://threefold.io/",
+      "topTradePairSlug": "TFT-threefold.io/XLM-native",
+      "change24h_XLM": 8.95,
+      "change24h_USD": 7.73,
+      "price_XLM": 0.035858,
+      "price_USD": 0.0084106,
+      "numTrades24h": 295,
+      "_numTradeRecords24h": 57,
+      "volume24h_XLM": 2601.92,
+      "volume24h_USD": 610.28,
+      "spread": 0.1502,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 478,
+      "depth10_USD": 112.11,
+      "activityScore": 12.379
+    },
+    {
+      "id": "XRF-GCHI6I3X62ND5XUMWINNNKXS2HPYZWKFQBZZYBSMHJ4MIP2XJXSZTXRF",
+      "code": "XRF",
+      "issuer": "GCHI6I3X62ND5XUMWINNNKXS2HPYZWKFQBZZYBSMHJ4MIP2XJXSZTXRF",
+      "domain": "reflector.network",
+      "slug": "XRF-reflector.network",
+      "website": "https://reflector.network/",
+      "topTradePairSlug": "XRF-reflector.network/XLM-native",
+      "change24h_XLM": 0.37,
+      "change24h_USD": -0.76,
+      "price_XLM": 1.025,
+      "price_USD": 0.24041,
+      "numTrades24h": 231,
+      "_numTradeRecords24h": 35,
+      "volume24h_XLM": 3163.03,
+      "volume24h_USD": 741.89,
+      "spread": 0.1364,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 1467,
+      "depth10_USD": 344.08,
+      "activityScore": 11.81
+    },
+    {
+      "id": "asUSDC-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "asUSDC",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "asUSDC-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "asUSDC-allbridge.io/XLM-native",
+      "change24h_XLM": 3.14,
+      "change24h_USD": 1.98,
+      "price_XLM": 4.2857,
+      "price_USD": 1.0052,
+      "numTrades24h": 98,
+      "_numTradeRecords24h": 43,
+      "volume24h_XLM": 93.286,
+      "volume24h_USD": 21.88,
+      "spread": 0.0236,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 21,
+      "depth10_USD": 4.9256,
+      "activityScore": 11.797
+    },
+    {
+      "id": "DOGE-GCYXTCIAFUF6S2AHY54BBAS3OVZXFPF24MD3WZCUUXCNMYKOX4ULMF5J",
+      "code": "DOGE",
+      "issuer": "GCYXTCIAFUF6S2AHY54BBAS3OVZXFPF24MD3WZCUUXCNMYKOX4ULMF5J",
+      "domain": "tokens.stellartokens.fun",
+      "slug": "DOGE-tokens.stellartokens.fun",
+      "website": "https://tokens.stellartokens.fun/",
+      "topTradePairSlug": "DOGE-tokens.stellartokens.fun/XLM-native",
+      "change24h_XLM": -0.7,
+      "change24h_USD": -1.82,
+      "price_XLM": 0.0005559,
+      "price_USD": 0.0001304,
+      "numTrades24h": 37,
+      "_numTradeRecords24h": 21,
+      "volume24h_XLM": 491.68,
+      "volume24h_USD": 115.32,
+      "spread": 0.0205,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 157,
+      "depth10_USD": 36.824,
+      "activityScore": 11.649
+    },
+    {
+      "id": "BTC-GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "code": "BTC",
+      "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "domain": "stellarport.io",
+      "slug": "BTC-stellarport.io",
+      "website": "https://stellarport.io/",
+      "topTradePairSlug": "XLM-native/BTC-stellarport.io",
+      "change24h_XLM": 11.11,
+      "change24h_USD": 9.86,
+      "price_XLM": 370370.37,
+      "price_USD": 86870.37,
+      "numTrades24h": 207,
+      "_numTradeRecords24h": 36,
+      "volume24h_XLM": 11066.24,
+      "volume24h_USD": 2595.59,
+      "spread": 0.1379,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 9.952
+    },
+    {
+      "id": "LTC-GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "code": "LTC",
+      "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "domain": "stellarport.io",
+      "slug": "LTC-stellarport.io",
+      "website": "https://stellarport.io/",
+      "topTradePairSlug": "LTC-stellarport.io/XLM-native",
+      "change24h_XLM": 15.26,
+      "change24h_USD": 13.96,
+      "price_XLM": 403.41,
+      "price_USD": 94.62,
+      "numTrades24h": 304,
+      "_numTradeRecords24h": 43,
+      "volume24h_XLM": 3737.14,
+      "volume24h_USD": 876.55,
+      "spread": 0.2029,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 8.052
+    },
+    {
+      "id": "XPR-GAYC7AQDVW7FK3QJG6OUKLYUDSF5TKPRMITGV3MNK3DDEEVL56E2MEIX",
+      "code": "XPR",
+      "issuer": "GAYC7AQDVW7FK3QJG6OUKLYUDSF5TKPRMITGV3MNK3DDEEVL56E2MEIX",
+      "domain": "xlmeme.com",
+      "slug": "XPR-xlmeme.com",
+      "website": "https://xlmeme.com/",
+      "topTradePairSlug": "XPR-xlmeme.com/XLM-native",
+      "change24h_XLM": 1.42,
+      "change24h_USD": 0.28,
+      "price_XLM": 0.0000712,
+      "price_USD": 0.0000167,
+      "numTrades24h": 177,
+      "_numTradeRecords24h": 44,
+      "volume24h_XLM": 36363.14,
+      "volume24h_USD": 8528.97,
+      "spread": 0.219,
+      "numBids": 20,
+      "numAsks": 12,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 8.041
+    },
+    {
+      "id": "ARS-GCYE7C77EB5AWAA25R5XMWNI2EDOKTTFTTPZKM2SR5DI4B4WFD52DARS",
+      "code": "ARS",
+      "issuer": "GCYE7C77EB5AWAA25R5XMWNI2EDOKTTFTTPZKM2SR5DI4B4WFD52DARS",
+      "domain": "api.anclap.com",
+      "slug": "ARS-api.anclap.com",
+      "website": "https://api.anclap.com/",
+      "topTradePairSlug": "XLM-native/ARS-api.anclap.com",
+      "change24h_XLM": -0.78,
+      "change24h_USD": -1.9,
+      "price_XLM": 0.0033097,
+      "price_USD": 0.0007763,
+      "numTrades24h": 163,
+      "_numTradeRecords24h": 41,
+      "volume24h_XLM": 66.212,
+      "volume24h_USD": 15.53,
+      "spread": 0.1267,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 1,
+      "depth10_USD": 0.23455,
+      "activityScore": 7.79
+    },
+    {
+      "id": "CLIX-GBCJSKXTZX5CYKJGBGQPYEATLSGR4EPRUOL7EKIDCDOZ4UC67BBQRCSO",
+      "code": "CLIX",
+      "issuer": "GBCJSKXTZX5CYKJGBGQPYEATLSGR4EPRUOL7EKIDCDOZ4UC67BBQRCSO",
+      "domain": "clic.world",
+      "slug": "CLIX-clic.world",
+      "website": "https://clic.world/",
+      "topTradePairSlug": "CLIX-clic.world/XLM-native",
+      "change24h_XLM": 0.87,
+      "change24h_USD": -0.26,
+      "price_XLM": 0.001364,
+      "price_USD": 0.0003199,
+      "numTrades24h": 36,
+      "_numTradeRecords24h": 22,
+      "volume24h_XLM": 13.708,
+      "volume24h_USD": 3.2152,
+      "spread": 0.0345,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 22,
+      "depth10_USD": 5.1601,
+      "activityScore": 7.46
+    },
+    {
+      "id": "aeETH-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "aeETH",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "aeETH-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "aeETH-allbridge.io/XLM-native",
+      "change24h_XLM": -6.26,
+      "change24h_USD": -7.32,
+      "price_XLM": 6317.7,
+      "price_USD": 1481.82,
+      "numTrades24h": 59,
+      "_numTradeRecords24h": 34,
+      "volume24h_XLM": 30.581,
+      "volume24h_USD": 7.1728,
+      "spread": 0.0895,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 7.209
+    },
+    {
+      "id": "GYEN-GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
+      "code": "GYEN",
+      "issuer": "GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
+      "domain": "stablecoin.z.com",
+      "slug": "GYEN-stablecoin.z.com",
+      "website": "https://stablecoin.z.com/",
+      "topTradePairSlug": "XLM-native/GYEN-stablecoin.z.com",
+      "change24h_XLM": -4.38,
+      "change24h_USD": -5.45,
+      "price_XLM": 0.036031,
+      "price_USD": 0.0084512,
+      "numTrades24h": 120,
+      "_numTradeRecords24h": 27,
+      "volume24h_XLM": 48.334,
+      "volume24h_USD": 11.337,
+      "spread": 0.0985,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 3,
+      "depth10_USD": 0.70365,
+      "activityScore": 7.072
+    },
+    {
+      "id": "PLAT-GBIMVJJJOTAKJYWJIY5YEXDZ4QIWQZLRJ4BXVHKH6EXWQ3WAEYBTPLAT",
+      "code": "PLAT",
+      "issuer": "GBIMVJJJOTAKJYWJIY5YEXDZ4QIWQZLRJ4BXVHKH6EXWQ3WAEYBTPLAT",
+      "domain": "mintx.co",
+      "slug": "PLAT-mintx.co",
+      "website": "https://mintx.co/",
+      "topTradePairSlug": "PLAT-mintx.co/XLM-native",
+      "change24h_XLM": -0.14,
+      "change24h_USD": -1.26,
+      "price_XLM": 126.15,
+      "price_USD": 29.588,
+      "numTrades24h": 136,
+      "_numTradeRecords24h": 25,
+      "volume24h_XLM": 586.34,
+      "volume24h_USD": 137.53,
+      "spread": 0.1757,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 6.588
+    },
+    {
+      "id": "CETES-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "code": "CETES",
+      "issuer": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "domain": "etherfuse.com",
+      "slug": "CETES-etherfuse.com",
+      "website": "https://etherfuse.com/",
+      "topTradePairSlug": "CETES-etherfuse.com/XLM-native",
+      "change24h_XLM": -9.87,
+      "change24h_USD": -10.88,
+      "price_XLM": 0.2049,
+      "price_USD": 0.048059,
+      "numTrades24h": 123,
+      "_numTradeRecords24h": 53,
+      "volume24h_XLM": 512.64,
+      "volume24h_USD": 120.24,
+      "spread": 0.2397,
+      "numBids": 16,
+      "numAsks": 14,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 6.416
+    },
+    {
+      "id": "PYBC-GBVB43NLVIP2USHXSKI7QQCZKZU2Z6U6A5PAHMIW7LLNVMQJTOX2BZI5",
+      "code": "PYBC",
+      "issuer": "GBVB43NLVIP2USHXSKI7QQCZKZU2Z6U6A5PAHMIW7LLNVMQJTOX2BZI5",
+      "domain": "luxpayband.io",
+      "slug": "PYBC-luxpayband.io",
+      "website": "https://luxpayband.io/",
+      "topTradePairSlug": "PYBC-luxpayband.io/XLM-native",
+      "change24h_XLM": 7.49,
+      "change24h_USD": 6.28,
+      "price_XLM": 0.0003586,
+      "price_USD": 0.0000841,
+      "numTrades24h": 115,
+      "_numTradeRecords24h": 53,
+      "volume24h_XLM": 48.878,
+      "volume24h_USD": 11.464,
+      "spread": 0.2039,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 6.389
+    },
+    {
+      "id": "NGNC-GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6",
+      "code": "NGNC",
+      "issuer": "GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6",
+      "domain": "ngnc.online",
+      "slug": "NGNC-ngnc.online",
+      "website": "https://ngnc.online/",
+      "topTradePairSlug": "XLM-native/NGNC-ngnc.online",
+      "change24h_XLM": 7.93,
+      "change24h_USD": 6.71,
+      "price_XLM": 0.0027989,
+      "price_USD": 0.0006565,
+      "numTrades24h": 68,
+      "_numTradeRecords24h": 35,
+      "volume24h_XLM": 221.61,
+      "volume24h_USD": 51.979,
+      "spread": 0.1819,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 6.233
+    },
+    {
+      "id": "AFRX-GBDTAQDRSX3QOEAQQKYWRGOTFE5FHQTLIH5YAF2HGUY3PBKRXWDKBLHN",
+      "code": "AFRX",
+      "issuer": "GBDTAQDRSX3QOEAQQKYWRGOTFE5FHQTLIH5YAF2HGUY3PBKRXWDKBLHN",
+      "domain": "afreum.com",
+      "slug": "AFRX-afreum.com",
+      "website": "https://afreum.com/",
+      "topTradePairSlug": "AFRX-afreum.com/XLM-native",
+      "change24h_XLM": 1.95,
+      "change24h_USD": 0.81,
+      "price_XLM": 46.915,
+      "price_USD": 11.004,
+      "numTrades24h": 92,
+      "_numTradeRecords24h": 26,
+      "volume24h_XLM": 36.951,
+      "volume24h_USD": 8.6669,
+      "spread": 0.1234,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 6.036
+    },
+    {
+      "id": "ETH-GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "code": "ETH",
+      "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+      "domain": "stellarport.io",
+      "slug": "ETH-stellarport.io",
+      "website": "https://stellarport.io/",
+      "topTradePairSlug": "ETH-stellarport.io/XLM-native",
+      "change24h_XLM": -6.23,
+      "change24h_USD": -7.29,
+      "price_XLM": 7503.95,
+      "price_USD": 1760.05,
+      "numTrades24h": 43,
+      "_numTradeRecords24h": 31,
+      "volume24h_XLM": 6.13,
+      "volume24h_USD": 1.4378,
+      "spread": 0.1259,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 5.602
+    },
+    {
+      "id": "apUSDC-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "apUSDC",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "apUSDC-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "apUSDC-allbridge.io/XLM-native",
+      "change24h_XLM": 2.25,
+      "change24h_USD": 1.1,
+      "price_XLM": 4.2532,
+      "price_USD": 0.99758,
+      "numTrades24h": 14,
+      "_numTradeRecords24h": 10,
+      "volume24h_XLM": 0.30767,
+      "volume24h_USD": 0.072164,
+      "spread": 0.0265,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 36,
+      "depth10_USD": 8.4438,
+      "activityScore": 5.497
+    },
+    {
+      "id": "USTRY-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "code": "USTRY",
+      "issuer": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "domain": "etherfuse.com",
+      "slug": "USTRY-etherfuse.com",
+      "website": "https://etherfuse.com/",
+      "topTradePairSlug": "USTRY-etherfuse.com/XLM-native",
+      "change24h_XLM": -8.22,
+      "change24h_USD": -9.25,
+      "price_XLM": 3.9495,
+      "price_USD": 0.92635,
+      "numTrades24h": 85,
+      "_numTradeRecords24h": 49,
+      "volume24h_XLM": 20.806,
+      "volume24h_USD": 4.88,
+      "spread": 0.2324,
+      "numBids": 17,
+      "numAsks": 11,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 4.924
+    },
+    {
+      "id": "yETH-GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
+      "code": "yETH",
+      "issuer": "GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
+      "domain": "ultracapital.xyz",
+      "slug": "yETH-ultracapital.xyz",
+      "website": "https://ultracapital.xyz/",
+      "topTradePairSlug": "yETH-ultracapital.xyz/XLM-native",
+      "change24h_XLM": -16.78,
+      "change24h_USD": -17.72,
+      "price_XLM": 5613.58,
+      "price_USD": 1316.67,
+      "numTrades24h": 97,
+      "_numTradeRecords24h": 44,
+      "volume24h_XLM": 689.63,
+      "volume24h_USD": 161.75,
+      "spread": 0.3648,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 3.592
+    },
+    {
+      "id": "apMATIC-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "apMATIC",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "apMATIC-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "apMATIC-allbridge.io/XLM-native",
+      "change24h_XLM": null,
+      "change24h_USD": null,
+      "price_XLM": 0.74779,
+      "price_USD": 0.17539,
+      "numTrades24h": 6,
+      "_numTradeRecords24h": 5,
+      "volume24h_XLM": 13.468,
+      "volume24h_USD": 3.1589,
+      "spread": 0.1069,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 18,
+      "depth10_USD": 4.2219,
+      "activityScore": 3.394
+    },
+    {
+      "id": "CLPX-GDYSPBVZHPQTYMGSYNOHRZQNLB3ZWFVQ2F7EP7YBOLRGD42XIC3QUX5G",
+      "code": "CLPX",
+      "issuer": "GDYSPBVZHPQTYMGSYNOHRZQNLB3ZWFVQ2F7EP7YBOLRGD42XIC3QUX5G",
+      "domain": "clpx.finance",
+      "slug": "CLPX-clpx.finance",
+      "website": "https://clpx.finance/",
+      "topTradePairSlug": "XLM-native/CLPX-clpx.finance",
+      "change24h_XLM": 21.02,
+      "change24h_USD": 19.65,
+      "price_XLM": 0.0052084,
+      "price_USD": 0.0012216,
+      "numTrades24h": 51,
+      "_numTradeRecords24h": 31,
+      "volume24h_XLM": 4.7954,
+      "volume24h_USD": 1.1248,
+      "spread": 0.464,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 1.302
+    },
+    {
+      "id": "EURC-GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM",
+      "code": "EURC",
+      "issuer": "GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM",
+      "domain": "mykobo.co",
+      "slug": "EURC-mykobo.co",
+      "website": "https://mykobo.co/",
+      "topTradePairSlug": "XLM-native/EURC-mykobo.co",
+      "change24h_XLM": -14.23,
+      "change24h_USD": -15.2,
+      "price_XLM": 4.054,
+      "price_USD": 0.95086,
+      "numTrades24h": 257,
+      "_numTradeRecords24h": 65,
+      "volume24h_XLM": 287.3,
+      "volume24h_USD": 67.386,
+      "spread": 0.5783,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 1.145
+    },
+    {
+      "id": "acCELO-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "acCELO",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "acCELO-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "acCELO-allbridge.io/XLM-native",
+      "change24h_XLM": -17.82,
+      "change24h_USD": -18.75,
+      "price_XLM": 1,
+      "price_USD": 0.23455,
+      "numTrades24h": 38,
+      "_numTradeRecords24h": 14,
+      "volume24h_XLM": 0.61793,
+      "volume24h_USD": 0.14494,
+      "spread": 0.4624,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 0.928
+    },
+    {
+      "id": "aeUSDC-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "aeUSDC",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "aeUSDC-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "aeUSDC-allbridge.io/XLM-native",
+      "change24h_XLM": -70.29,
+      "change24h_USD": -70.63,
+      "price_XLM": 1.25,
+      "price_USD": 0.29319,
+      "numTrades24h": 41,
+      "_numTradeRecords24h": 27,
+      "volume24h_XLM": 2.5917,
+      "volume24h_USD": 0.60788,
+      "spread": 0.6875,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 0.236
+    },
+    {
+      "id": "EURx-GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "code": "EURx",
+      "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "assets.fxdao.io",
+      "slug": "EURx-assets.fxdao.io",
+      "website": "https://assets.fxdao.io/",
+      "topTradePairSlug": "XLM-native/EURx-assets.fxdao.io",
+      "change24h_XLM": -58.72,
+      "change24h_USD": -59.18,
+      "price_XLM": 1.7684,
+      "price_USD": 0.41479,
+      "numTrades24h": 35,
+      "_numTradeRecords24h": 14,
+      "volume24h_XLM": 0.57035,
+      "volume24h_USD": 0.13378,
+      "spread": 0.8453,
+      "numBids": 15,
+      "numAsks": 17,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 0.02
+    },
+    {
+      "id": "FXG-GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "code": "FXG",
+      "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "assets.fxdao.io",
+      "slug": "FXG-assets.fxdao.io",
+      "website": "https://assets.fxdao.io/",
+      "topTradePairSlug": "FXG-assets.fxdao.io/XLM-native",
+      "change24h_XLM": -74.69,
+      "change24h_USD": -74.97,
+      "price_XLM": 0.0024501,
+      "price_USD": 0.0005747,
+      "numTrades24h": 42,
+      "_numTradeRecords24h": 13,
+      "volume24h_XLM": 5.9481,
+      "volume24h_USD": 1.3951,
+      "spread": 0.8953,
+      "numBids": 20,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 0.007
+    },
+    {
+      "id": "GBPx-GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "code": "GBPx",
+      "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "assets.fxdao.io",
+      "slug": "GBPx-assets.fxdao.io",
+      "website": "https://assets.fxdao.io/",
+      "topTradePairSlug": "XLM-native/GBPx-assets.fxdao.io",
+      "change24h_XLM": -69.12,
+      "change24h_USD": -69.47,
+      "price_XLM": 1.5382,
+      "price_USD": 0.36078,
+      "numTrades24h": 63,
+      "_numTradeRecords24h": 32,
+      "volume24h_XLM": 2.5407,
+      "volume24h_USD": 0.59592,
+      "spread": 0.9598,
+      "numBids": 17,
+      "numAsks": 20,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 0.001
+    },
+    {
+      "id": "USDx-GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "code": "USDx",
+      "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "assets.fxdao.io",
+      "slug": "USDx-assets.fxdao.io",
+      "website": "https://assets.fxdao.io/",
+      "topTradePairSlug": "XLM-native/USDx-assets.fxdao.io",
+      "change24h_XLM": -41.84,
+      "change24h_USD": -42.49,
+      "price_XLM": 2.437,
+      "price_USD": 0.57161,
+      "numTrades24h": 13,
+      "_numTradeRecords24h": 10,
+      "volume24h_XLM": 0.17021,
+      "volume24h_USD": 0.039923,
+      "spread": 0.9868,
+      "numBids": 6,
+      "numAsks": 17,
+      "depth10_XLM": 0,
+      "depth10_USD": 0,
+      "activityScore": 0
+    },
+    {
+      "id": "acUSD-GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "code": "acUSD",
+      "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL",
+      "domain": "allbridge.io",
+      "slug": "acUSD-allbridge.io",
+      "website": "https://allbridge.io/",
+      "topTradePairSlug": "acUSD-allbridge.io/XLM-native",
+      "activityScore": 0
+    },
+    {
+      "id": "XLM-GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG",
+      "code": "XLM",
+      "issuer": "GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG",
+      "domain": "stronghold.co",
+      "slug": "XLM-stronghold.co",
+      "website": "https://stronghold.co/",
+      "topTradePairSlug": "XLM-stronghold.co/XLM-native",
+      "activityScore": 0
+    }
+  ],
+  "pairs": {
+    "PYBC-luxpayband.io/XLM-native": {
+      "baseBuying": {
+        "code": "PYBC",
+        "issuer": "GBVB43NLVIP2USHXSKI7QQCZKZU2Z6U6A5PAHMIW7LLNVMQJTOX2BZI5"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0003179,
+      "ask": 0.0003993,
+      "spread": 0.2039,
+      "price": 0.0003586,
+      "depth10Amount": 0,
+      "volume24h_XLM": 48.878,
+      "numTrades24h": 115
+    },
+    "aeETH-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "aeETH",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 6021.65,
+      "ask": 6613.75561,
+      "spread": 0.0895,
+      "price": 6317.702805,
+      "depth10Amount": 0,
+      "volume24h_XLM": 30.581,
+      "numTrades24h": 59
+    },
+    "asUSDC-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "asUSDC",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 4.2344776,
+      "ask": 4.3368246,
+      "spread": 0.0236,
+      "price": 4.2856511,
+      "depth10Amount": 21,
+      "volume24h_XLM": 93.286,
+      "numTrades24h": 98
+    },
+    "acUSD-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "acUSD",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      }
+    },
+    "apUSDC-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "apUSDC",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 4.1959804,
+      "ask": 4.3103447,
+      "spread": 0.0265,
+      "price": 4.2531626,
+      "depth10Amount": 36,
+      "volume24h_XLM": 0.30767,
+      "numTrades24h": 14
+    },
+    "aeUSDC-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "aeUSDC",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 1.25,
+      "ask": 4,
+      "spread": 0.6875,
+      "price": 1.25,
+      "depth10Amount": 0,
+      "volume24h_XLM": 2.5917,
+      "numTrades24h": 41
+    },
+    "asSOL-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "asSOL",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 545,
+      "ask": 550,
+      "spread": 0.0091,
+      "price": 547.5,
+      "depth10Amount": 11,
+      "volume24h_XLM": 4757.55,
+      "numTrades24h": 302
+    },
+    "acCELO-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "acCELO",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 1,
+      "ask": 1.86,
+      "spread": 0.4624,
+      "price": 1,
+      "depth10Amount": 0,
+      "volume24h_XLM": 0.61793,
+      "numTrades24h": 38
+    },
+    "apMATIC-allbridge.io/XLM-native": {
+      "baseBuying": {
+        "code": "apMATIC",
+        "issuer": "GALLBRBQHAPW5FOVXXHYWR6J4ZDAQ35BMSNADYGBW25VOUHUYRZM4XIL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.70558,
+      "ask": 0.79,
+      "spread": 0.1069,
+      "price": 0.74779,
+      "depth10Amount": 18,
+      "volume24h_XLM": 13.468,
+      "numTrades24h": 6
+    },
+    "XLM-native/USDx-assets.fxdao.io": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "USDx",
+        "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN"
+      },
+      "bid": 0.010666,
+      "ask": 0.81,
+      "spread": 0.9868,
+      "price": 0.410333,
+      "depth10Amount": 0,
+      "volume24h_XLM": 0.17021,
+      "numTrades24h": 13
+    },
+    "XLM-native/EURx-assets.fxdao.io": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "EURx",
+        "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN"
+      },
+      "bid": 0.1515152,
+      "ask": 0.9794319,
+      "spread": 0.8453,
+      "price": 0.5654736,
+      "depth10Amount": 0,
+      "volume24h_XLM": 0.57035,
+      "numTrades24h": 35
+    },
+    "XLM-native/GBPx-assets.fxdao.io": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "GBPx",
+        "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN"
+      },
+      "bid": 0.0502513,
+      "ask": 1.25,
+      "spread": 0.9598,
+      "price": 0.6501257,
+      "depth10Amount": 0,
+      "volume24h_XLM": 2.5407,
+      "numTrades24h": 63
+    },
+    "FXG-assets.fxdao.io/XLM-native": {
+      "baseBuying": {
+        "code": "FXG",
+        "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0024501,
+      "ask": 0.0234,
+      "spread": 0.8953,
+      "price": 0.0024501,
+      "depth10Amount": 0,
+      "volume24h_XLM": 5.9481,
+      "numTrades24h": 42
+    },
+    "XRP-fchain.io/XLM-native": {
+      "baseBuying": {
+        "code": "XRP",
+        "issuer": "GBXRPL45NPHCVMFFAYZVUVFFVKSIZ362ZXFP7I2ETNQ3QKZMFLPRDTD5"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 8.8481872,
+      "ask": 8.8893987,
+      "spread": 0.0046,
+      "price": 8.868793,
+      "depth10Amount": 3333,
+      "volume24h_XLM": 151361.29,
+      "numTrades24h": 1981
+    },
+    "VELO-velo.org/XLM-native": {
+      "baseBuying": {
+        "code": "VELO",
+        "issuer": "GDM4RQUQQUVSKQA7S6EM7XBZP3FCGH4Q7CL6TABQ7B2BEJ5ERARM2M5M"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0510299,
+      "ask": 0.0511,
+      "spread": 0.0014,
+      "price": 0.051065,
+      "depth10Amount": 46438,
+      "volume24h_XLM": 430123.06,
+      "numTrades24h": 7778
+    },
+    "CLIX-clic.world/XLM-native": {
+      "baseBuying": {
+        "code": "CLIX",
+        "issuer": "GBCJSKXTZX5CYKJGBGQPYEATLSGR4EPRUOL7EKIDCDOZ4UC67BBQRCSO"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.00134,
+      "ask": 0.0013879,
+      "spread": 0.0345,
+      "price": 0.001364,
+      "depth10Amount": 22,
+      "volume24h_XLM": 13.708,
+      "numTrades24h": 36
+    },
+    "XPR-xlmeme.com/XLM-native": {
+      "baseBuying": {
+        "code": "XPR",
+        "issuer": "GAYC7AQDVW7FK3QJG6OUKLYUDSF5TKPRMITGV3MNK3DDEEVL56E2MEIX"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0000624,
+      "ask": 0.0000799,
+      "spread": 0.219,
+      "price": 0.0000712,
+      "depth10Amount": 0,
+      "volume24h_XLM": 36363.14,
+      "numTrades24h": 177
+    },
+    "CNY-ripplefox.com/XLM-native": {
+      "baseBuying": {
+        "code": "CNY",
+        "issuer": "GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.5847957,
+      "ask": 0.5865706,
+      "spread": 0.003,
+      "price": 0.5856832,
+      "depth10Amount": 22708,
+      "volume24h_XLM": 5627.23,
+      "numTrades24h": 293
+    },
+    "ETH-stellarport.io/XLM-native": {
+      "baseBuying": {
+        "code": "ETH",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 7000,
+      "ask": 8007.8991197,
+      "spread": 0.1259,
+      "price": 7503.9495599,
+      "depth10Amount": 0,
+      "volume24h_XLM": 6.13,
+      "numTrades24h": 43
+    },
+    "XRP-stellarport.io/XLM-native": {
+      "baseBuying": {
+        "code": "XRP",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 9.0358134,
+      "ask": 9.0933396,
+      "spread": 0.0063,
+      "price": 9.0645765,
+      "depth10Amount": 0,
+      "volume24h_XLM": 1272.63,
+      "numTrades24h": 107
+    },
+    "XLM-native/BTC-stellarport.io": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "BTC",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5"
+      },
+      "bid": 0.0000025,
+      "ask": 0.0000029,
+      "spread": 0.1379,
+      "price": 0.0000027,
+      "depth10Amount": 0,
+      "volume24h_XLM": 11066.24,
+      "numTrades24h": 207
+    },
+    "LTC-stellarport.io/XLM-native": {
+      "baseBuying": {
+        "code": "LTC",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 357.874274,
+      "ask": 448.9492634,
+      "spread": 0.2029,
+      "price": 403.4117687,
+      "depth10Amount": 0,
+      "volume24h_XLM": 3737.14,
+      "numTrades24h": 304
+    },
+    "XLM-stronghold.co/XLM-native": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": "GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      }
+    },
+    "SHX-stronghold.co/XLM-native": {
+      "baseBuying": {
+        "code": "SHX",
+        "issuer": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0347301,
+      "ask": 0.0349564,
+      "spread": 0.0065,
+      "price": 0.0348433,
+      "depth10Amount": 7659,
+      "volume24h_XLM": 332543.47,
+      "numTrades24h": 3007
+    },
+    "GOLD-mintx.co/XLM-native": {
+      "baseBuying": {
+        "code": "GOLD",
+        "issuer": "GBC5ZGK6MQU3XG5Y72SXPA7P5R5NHYT2475SNEJB2U3EQ6J56QLVGOLD"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 423.000042,
+      "ask": 451.662844,
+      "spread": 0.0635,
+      "price": 437.331443,
+      "depth10Amount": 40,
+      "volume24h_XLM": 6698.32,
+      "numTrades24h": 834
+    },
+    "SLVR-mintx.co/XLM-native": {
+      "baseBuying": {
+        "code": "SLVR",
+        "issuer": "GBZVELEQD3WBN3R3VAG64HVBDOZ76ZL6QPLSFGKWPFED33Q3234NSLVR"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 4.7700001,
+      "ask": 4.8021374,
+      "spread": 0.0067,
+      "price": 4.7860688,
+      "depth10Amount": 966,
+      "volume24h_XLM": 3248.16,
+      "numTrades24h": 334
+    },
+    "PLAT-mintx.co/XLM-native": {
+      "baseBuying": {
+        "code": "PLAT",
+        "issuer": "GBIMVJJJOTAKJYWJIY5YEXDZ4QIWQZLRJ4BXVHKH6EXWQ3WAEYBTPLAT"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 114.000066,
+      "ask": 138.2965698,
+      "spread": 0.1757,
+      "price": 126.1483179,
+      "depth10Amount": 0,
+      "volume24h_XLM": 586.34,
+      "numTrades24h": 136
+    },
+    "PALL-mintx.co/XLM-native": {
+      "baseBuying": {
+        "code": "PALL",
+        "issuer": "GCQ5ZYECTNYW6BZ47AZN6M5BXKV7ZZ24XPNHPSYZVUDVK7CIITOMPALL"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 130.546598,
+      "ask": 137,
+      "spread": 0.0471,
+      "price": 133.773299,
+      "depth10Amount": 0,
+      "volume24h_XLM": 957,
+      "numTrades24h": 776
+    },
+    "WXT-wxt.wirexapp.com/XLM-native": {
+      "baseBuying": {
+        "code": "WXT",
+        "issuer": "GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0094174,
+      "ask": 0.0094657,
+      "spread": 0.0051,
+      "price": 0.0094416,
+      "depth10Amount": 672,
+      "volume24h_XLM": 101.82,
+      "numTrades24h": 166
+    },
+    "AFR-afreum.com/XLM-native": {
+      "baseBuying": {
+        "code": "AFR",
+        "issuer": "GBX6YI45VU7WNAAKA3RBFDR3I3UKNFHTJPQ5F6KOOKSGYIAM4TRQN54W"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0027394,
+      "ask": 0.002756,
+      "spread": 0.006,
+      "price": 0.0027477,
+      "depth10Amount": 644,
+      "volume24h_XLM": 12128.31,
+      "numTrades24h": 2639
+    },
+    "AFRX-afreum.com/XLM-native": {
+      "baseBuying": {
+        "code": "AFRX",
+        "issuer": "GBDTAQDRSX3QOEAQQKYWRGOTFE5FHQTLIH5YAF2HGUY3PBKRXWDKBLHN"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 43.8298822,
+      "ask": 49.9999999,
+      "spread": 0.1234,
+      "price": 46.914941,
+      "depth10Amount": 0,
+      "volume24h_XLM": 36.951,
+      "numTrades24h": 92
+    },
+    "RIO-realio.fund/XLM-native": {
+      "baseBuying": {
+        "code": "RIO",
+        "issuer": "GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.8,
+      "ask": 0.8146695,
+      "spread": 0.018,
+      "price": 0.8073348,
+      "depth10Amount": 500,
+      "volume24h_XLM": 57419.54,
+      "numTrades24h": 5838
+    },
+    "BTCLN-kbtrading.org/XLM-native": {
+      "baseBuying": {
+        "code": "BTCLN",
+        "issuer": "GDPKQ2TSNJOFSEE7XSUXPWRP27H6GFGLWD7JCHNEYYWQVGFA543EVBVT"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0035024,
+      "ask": 0.0036926,
+      "spread": 0.0515,
+      "price": 0.0035975,
+      "depth10Amount": 5435,
+      "volume24h_XLM": 31706.73,
+      "numTrades24h": 1349
+    },
+    "SCOP-scopuly.com/XLM-native": {
+      "baseBuying": {
+        "code": "SCOP",
+        "issuer": "GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0314984,
+      "ask": 0.0325703,
+      "spread": 0.0329,
+      "price": 0.0320344,
+      "depth10Amount": 1059,
+      "volume24h_XLM": 19752.51,
+      "numTrades24h": 1309
+    },
+    "FRED-fredenergy.org/XLM-native": {
+      "baseBuying": {
+        "code": "FRED",
+        "issuer": "GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0012049,
+      "ask": 0.0012121,
+      "spread": 0.0059,
+      "price": 0.0012085,
+      "depth10Amount": 193,
+      "volume24h_XLM": 738.36,
+      "numTrades24h": 503
+    },
+    "XLM-native/BRL-ntokens.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "BRL",
+        "issuer": "GDVKY2GU2DRXWTBEYJJWSFXIGBZV6AZNBVVSUHEPZI54LIS6BA7DVVSP"
+      },
+      "bid": 1.6356056,
+      "ask": 1.6451374,
+      "spread": 0.0058,
+      "price": 1.6403715,
+      "depth10Amount": 0,
+      "volume24h_XLM": 2909.21,
+      "numTrades24h": 318
+    },
+    "XLM-native/ARST-pubnet-sep.latamex.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "ARST",
+        "issuer": "GCSAZVWXZKWS4XS223M5F54H2B6XPIIXZZGP7KEAIU6YSL5HDRGCI3DG"
+      },
+      "bid": 302.982662,
+      "ask": 307.315035,
+      "spread": 0.0141,
+      "price": 305.1488485,
+      "depth10Amount": 0,
+      "volume24h_XLM": 10307.61,
+      "numTrades24h": 432
+    },
+    "TFT-threefold.io/XLM-native": {
+      "baseBuying": {
+        "code": "TFT",
+        "issuer": "GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.032946,
+      "ask": 0.0387706,
+      "spread": 0.1502,
+      "price": 0.0358583,
+      "depth10Amount": 478,
+      "volume24h_XLM": 2601.92,
+      "numTrades24h": 295
+    },
+    "XLM-native/ARS-api.anclap.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "ARS",
+        "issuer": "GCYE7C77EB5AWAA25R5XMWNI2EDOKTTFTTPZKM2SR5DI4B4WFD52DARS"
+      },
+      "bid": 281.698076,
+      "ask": 322.5806452,
+      "spread": 0.1267,
+      "price": 302.1393606,
+      "depth10Amount": 1,
+      "volume24h_XLM": 66.212,
+      "numTrades24h": 163
+    },
+    "XLM-native/PEN-api.anclap.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "PEN",
+        "issuer": "GA4TDPNUCZPTOHB3TKUYMDCRVATXKEADH7ZEYEBWJKQKE2UBFCYNBPEN"
+      },
+      "bid": 0.8791662,
+      "ask": 0.8818058,
+      "spread": 0.003,
+      "price": 0.880486,
+      "depth10Amount": 1118,
+      "volume24h_XLM": 601.47,
+      "numTrades24h": 706
+    },
+    "XLM-native/USDC-centre.io": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "USDC",
+        "issuer": "GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN"
+      },
+      "bid": 0.2350587,
+      "ask": 0.2354413,
+      "spread": 0.0016,
+      "price": 0.23525,
+      "depth10Amount": 37096,
+      "volume24h_XLM": 8842834.11,
+      "numTrades24h": 44694
+    },
+    "yBTC-ultracapital.xyz/XLM-native": {
+      "baseBuying": {
+        "code": "yBTC",
+        "issuer": "GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 350142.8571429,
+      "ask": 360000,
+      "spread": 0.0274,
+      "price": 355071.4285715,
+      "depth10Amount": 0,
+      "volume24h_XLM": 5624.28,
+      "numTrades24h": 244
+    },
+    "yETH-ultracapital.xyz/XLM-native": {
+      "baseBuying": {
+        "code": "yETH",
+        "issuer": "GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 4361.3650627,
+      "ask": 6865.7984145,
+      "spread": 0.3648,
+      "price": 5613.5817386,
+      "depth10Amount": 0,
+      "volume24h_XLM": 689.63,
+      "numTrades24h": 97
+    },
+    "yUSDC-ultracapital.xyz/XLM-native": {
+      "baseBuying": {
+        "code": "yUSDC",
+        "issuer": "GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 4.2581228,
+      "ask": 4.2746487,
+      "spread": 0.0039,
+      "price": 4.2663857,
+      "depth10Amount": 445,
+      "volume24h_XLM": 105598.18,
+      "numTrades24h": 4918
+    },
+    "yXLM-ultracapital.xyz/XLM-native": {
+      "baseBuying": {
+        "code": "yXLM",
+        "issuer": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.999601,
+      "ask": 0.9998838,
+      "spread": 0.0003,
+      "price": 0.9997424,
+      "depth10Amount": 8872055,
+      "volume24h_XLM": 466248.47,
+      "numTrades24h": 3446
+    },
+    "XLM-native/BTC-ultracapital.xyz": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "BTC",
+        "issuer": "GDPJALI4AZKUU2W426U5WKMAT6CN3AJRPIIRYR2YM54TL2GDWO5O2MZM"
+      },
+      "bid": 0.0000028,
+      "ask": 0.0000028,
+      "spread": 0,
+      "price": 0.0000028,
+      "depth10Amount": 0,
+      "volume24h_XLM": 26319.87,
+      "numTrades24h": 389
+    },
+    "ETH-ultracapital.xyz/XLM-native": {
+      "baseBuying": {
+        "code": "ETH",
+        "issuer": "GBFXOHVAS43OIWNIO7XLRJAHT3BICFEIKOJLZVXNT572MISM4CMGSOCC"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 6849.3150685,
+      "ask": 6850.9824378,
+      "spread": 0.0002,
+      "price": 6850.1487532,
+      "depth10Amount": 0,
+      "volume24h_XLM": 20301.74,
+      "numTrades24h": 575
+    },
+    "XLM-native/CLPX-clpx.finance": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "CLPX",
+        "issuer": "GDYSPBVZHPQTYMGSYNOHRZQNLB3ZWFVQ2F7EP7YBOLRGD42XIC3QUX5G"
+      },
+      "bid": 134.0009153,
+      "ask": 249.9968138,
+      "spread": 0.464,
+      "price": 191.9988646,
+      "depth10Amount": 0,
+      "volume24h_XLM": 4.7954,
+      "numTrades24h": 51
+    },
+    "XLM-native/EURC-mykobo.co": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "EURC",
+        "issuer": "GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM"
+      },
+      "bid": 0.1463428,
+      "ask": 0.3469986,
+      "spread": 0.5783,
+      "price": 0.2466707,
+      "depth10Amount": 0,
+      "volume24h_XLM": 287.3,
+      "numTrades24h": 257
+    },
+    "AQUA-aqua.network/XLM-native": {
+      "baseBuying": {
+        "code": "AQUA",
+        "issuer": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0027249,
+      "ask": 0.00275,
+      "spread": 0.0091,
+      "price": 0.0027374,
+      "depth10Amount": 66607,
+      "volume24h_XLM": 114398.32,
+      "numTrades24h": 6558
+    },
+    "SSLX-sslx.sl8.online/XLM-native": {
+      "baseBuying": {
+        "code": "SSLX",
+        "issuer": "GBHFGY3ZNEJWLNO4LBUKLYOCEK4V7ENEBJGPRHHX7JU47GWHBREH37UR"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.005107,
+      "ask": 0.0051354,
+      "spread": 0.0055,
+      "price": 0.0051212,
+      "depth10Amount": 1437,
+      "volume24h_XLM": 36654.41,
+      "numTrades24h": 1035
+    },
+    "LSP-lumenswap.io/XLM-native": {
+      "baseBuying": {
+        "code": "LSP",
+        "issuer": "GAB7STHVD5BDH3EEYXPI3OM7PCS4V443PYB5FNT6CFGJVPDLMKDM24WK"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0050227,
+      "ask": 0.0052524,
+      "spread": 0.0437,
+      "price": 0.0051375,
+      "depth10Amount": 816,
+      "volume24h_XLM": 7897.21,
+      "numTrades24h": 664
+    },
+    "XLM-native/NGNC-ngnc.online": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "NGNC",
+        "issuer": "GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6"
+      },
+      "bid": 321.5434084,
+      "ask": 393.0199654,
+      "spread": 0.1819,
+      "price": 357.2816869,
+      "depth10Amount": 0,
+      "volume24h_XLM": 221.61,
+      "numTrades24h": 68
+    },
+    "XTAR-dogstarcoin.com/XLM-native": {
+      "baseBuying": {
+        "code": "XTAR",
+        "issuer": "GAORYJ3KBDGIM7FFSKVUJHJ5NEFWIRDIAGGBJBJS7TY6ECZS53257IG4"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0000831,
+      "ask": 0.0000843,
+      "spread": 0.0142,
+      "price": 0.0000837,
+      "depth10Amount": 2049,
+      "volume24h_XLM": 6496.97,
+      "numTrades24h": 4857
+    },
+    "XLM-native/GYEN-stablecoin.z.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "GYEN",
+        "issuer": "GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB"
+      },
+      "bid": 26.3157895,
+      "ask": 29.1912686,
+      "spread": 0.0985,
+      "price": 27.7535291,
+      "depth10Amount": 3,
+      "volume24h_XLM": 48.334,
+      "numTrades24h": 120
+    },
+    "XLM-native/ZUSD-stablecoin.z.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "ZUSD",
+        "issuer": "GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB"
+      },
+      "bid": 0.2345264,
+      "ask": 0.235702,
+      "spread": 0.005,
+      "price": 0.2351142,
+      "depth10Amount": 39658,
+      "volume24h_XLM": 288087.48,
+      "numTrades24h": 901
+    },
+    "XLM-native/EURC-circle.com": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "EURC",
+        "issuer": "GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2"
+      },
+      "bid": 0.205899,
+      "ask": 0.2078873,
+      "spread": 0.0096,
+      "price": 0.2068932,
+      "depth10Amount": 4804,
+      "volume24h_XLM": 48814.37,
+      "numTrades24h": 1554
+    },
+    "XLM-native/USDGLO-app.glodollar.org": {
+      "baseBuying": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "counterSelling": {
+        "code": "USDGLO",
+        "issuer": "GBBS25EGYQPGEZCGCFBKG4OAGFXU6DSOQBGTHELLJT3HZXZJ34HWS6XV"
+      },
+      "bid": 0.2351893,
+      "ask": 0.2357107,
+      "spread": 0.0022,
+      "price": 0.23545,
+      "depth10Amount": 19,
+      "volume24h_XLM": 2763.88,
+      "numTrades24h": 354
+    },
+    "XRF-reflector.network/XLM-native": {
+      "baseBuying": {
+        "code": "XRF",
+        "issuer": "GCHI6I3X62ND5XUMWINNNKXS2HPYZWKFQBZZYBSMHJ4MIP2XJXSZTXRF"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.95,
+      "ask": 1.1,
+      "spread": 0.1364,
+      "price": 1.025,
+      "depth10Amount": 1467,
+      "volume24h_XLM": 3163.03,
+      "numTrades24h": 231
+    },
+    "DOGE-tokens.stellartokens.fun/XLM-native": {
+      "baseBuying": {
+        "code": "DOGE",
+        "issuer": "GCYXTCIAFUF6S2AHY54BBAS3OVZXFPF24MD3WZCUUXCNMYKOX4ULMF5J"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0005501,
+      "ask": 0.0005616,
+      "spread": 0.0205,
+      "price": 0.0005559,
+      "depth10Amount": 157,
+      "volume24h_XLM": 491.68,
+      "numTrades24h": 37
+    },
+    "USTRY-etherfuse.com/XLM-native": {
+      "baseBuying": {
+        "code": "USTRY",
+        "issuer": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 3.4300778,
+      "ask": 4.4688392,
+      "spread": 0.2324,
+      "price": 3.9494585,
+      "depth10Amount": 0,
+      "volume24h_XLM": 20.806,
+      "numTrades24h": 85
+    },
+    "CETES-etherfuse.com/XLM-native": {
+      "baseBuying": {
+        "code": "CETES",
+        "issuer": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.1770001,
+      "ask": 0.2327934,
+      "spread": 0.2397,
+      "price": 0.2048968,
+      "depth10Amount": 0,
+      "volume24h_XLM": 512.64,
+      "numTrades24h": 123
+    },
+    "KALE-kalepail.com/XLM-native": {
+      "baseBuying": {
+        "code": "KALE",
+        "issuer": "GBDVX4VELCDSQ54KQJYTNHXAHFLBCA77ZY2USQBM4CSHTTV7DME7KALE"
+      },
+      "counterSelling": {
+        "code": "XLM",
+        "issuer": null
+      },
+      "bid": 0.0027387,
+      "ask": 0.0027548,
+      "spread": 0.0058,
+      "price": 0.0027468,
+      "depth10Amount": 31,
+      "volume24h_XLM": 13340.3,
+      "numTrades24h": 571
+    }
+  }
+}=
