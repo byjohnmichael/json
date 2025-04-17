@@ -713,7 +713,8 @@
                     "sep24": false,
                     "disabled": false,
                     "unlisted": false,
-                    "coinmarketcap_id": null
+                    "coinmarketcap_id": null,
+                    "image": "https://backend.digitalworld.earth/uploads/assets/1743196970_4ea3ce2185aa2c0c16f0.png"
                 }
             ]
         },
