@@ -1,31 +1,6 @@
 {
     "issuer_orgs": [
         {
-            "display_name": "NATIVE",
-            "domain": "NATIVE",
-            "website": "https://dex.digitalworld.global",
-            "support": null,
-            "color": "#8ce5f7",
-            "assets": [
-                {
-                    "code": "NATIVE",
-                    "issuer": "GA2I6PIKH4WKAFOIHINX75R7Q2IH6V62O7U3MLNN23BCKGVKO7ZVL66V",
-                    "anchor_asset": null,
-                    "anchors": [],
-                    "custom_transfer_domain": null,
-                    "custom_transfer_support": null,
-                    "is_counter_selling": false,
-                    "deposit": false,
-                    "withdraw": false,
-                    "history": false,
-                    "sep24": false,
-                    "disabled": false,
-                    "unlisted": false,
-                    "coinmarketcap_id": null
-                }
-            ]
-        },
-        {
             "display_name": "DUSD DAO",
             "domain": "DUSD_DAO.io",
             "website": "https://DUSD_DAO.io",
