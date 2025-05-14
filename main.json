@@ -5,7 +5,7 @@
             "domain": "DUSD_DAO.io",
             "website": "https://DUSD_DAO.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#16a085",
             "assets": [
                 {
                     "code": "DUSD",
@@ -30,7 +30,7 @@
             "domain": "DBTC_DAO.io",
             "website": "https://DBTC_DAO.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#f39c12",
             "assets": [
                 {
                     "code": "DBTC",
@@ -56,7 +56,7 @@
             "domain": "Hawaiian_Kingdom.io",
             "website": "https://Hawaiian_Kingdom.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#cb4335",
             "assets": [
                 {
                     "code": "DALA",
