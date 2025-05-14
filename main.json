@@ -5,7 +5,7 @@
             "domain": "DUSD_DAO.io",
             "website": "https://DUSD_DAO.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#43A047",
             "assets": [
                 {
                     "code": "DUSD",
@@ -23,7 +23,7 @@
             "domain": "DBTC_DAO.io",
             "website": "https://DBTC_DAO.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#FFA000",
             "assets": [
                 {
                     "code": "DBTC",
@@ -42,7 +42,7 @@
             "domain": "Hawaiian_Kingdom.io",
             "website": "https://Hawaiian_Kingdom.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#E53935",
             "assets": [
                 {
                     "code": "ALOHA",
@@ -69,7 +69,7 @@
             "domain": "Clear_Companies.io",
             "website": "https://Clear_Companies.io",
             "support": null,
-            "color": "#8ce5f7",
+            "color": "#00ACC1",
             "assets": [
                 {
                     "code": "CLEAR",
