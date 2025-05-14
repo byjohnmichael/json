@@ -5,23 +5,16 @@
             "domain": "DUSD_DAO.io",
             "website": "https://DUSD_DAO.io",
             "support": null,
-            "color": "#16a085",
+            "color": "#8ce5f7",
             "assets": [
                 {
                     "code": "DUSD",
                     "issuer": "GA2I6PIKH4WKAFOIHINX75R7Q2IH6V62O7U3MLNN23BCKGVKO7ZVL66V",
-                    "anchor_asset": null,
-                    "anchors": [],
                     "custom_transfer_domain": null,
                     "custom_transfer_support": null,
                     "is_counter_selling": false,
-                    "deposit": false,
-                    "withdraw": false,
-                    "history": false,
-                    "sep24": false,
                     "disabled": false,
-                    "unlisted": false,
-                    "coinmarketcap_id": null
+                    "important": true
                 }
             ]
         },
@@ -30,24 +23,17 @@
             "domain": "DBTC_DAO.io",
             "website": "https://DBTC_DAO.io",
             "support": null,
-            "color": "#f39c12",
+            "color": "#8ce5f7",
             "assets": [
                 {
                     "code": "DBTC",
                     "issuer": "GA3LBKF4SRHYYUYW56QHRW2JNJOC73AV4HVRZOYHUTN73JTJA3BZ3BJ4",
-                    "anchor_asset": null,
-                    "anchors": [],
                     "custom_transfer_domain": null,
                     "custom_transfer_support": null,
                     "is_counter_selling": false,
-                    "deposit": false,
-                    "withdraw": false,
-                    "history": false,
-                    "sep24": false,
                     "disabled": false,
-                    "unlisted": false,
-                    "coinmarketcap_id": null,
-                    "image": "https://backend.digitalworld.earth/uploads/assets/1743196970_4ea3ce2185aa2c0c16f0.png"
+                    "image": "https://backend.digitalworld.earth/uploads/assets/1743196970_4ea3ce2185aa2c0c16f0.png",
+                    "important": true
                 }
             ]
         },
@@ -56,23 +42,1510 @@
             "domain": "Hawaiian_Kingdom.io",
             "website": "https://Hawaiian_Kingdom.io",
             "support": null,
-            "color": "#cb4335",
+            "color": "#8ce5f7",
             "assets": [
                 {
-                    "code": "DALA",
-                    "issuer": "GAYJHLFCRMXASP4AEKLHAGO76NCQPHFJXLV7P5LS2CUO5GTUISPVVQFL",
-                    "anchor_asset": null,
-                    "anchors": [],
+                    "code": "ALOHA",
+                    "issuer": "GAPBA6OUHCR3ENVTG63E4HBZREO3JOKEVMKGO25MG3QMHDH3AM6K74LY",
                     "custom_transfer_domain": null,
                     "custom_transfer_support": null,
                     "is_counter_selling": false,
-                    "deposit": false,
-                    "withdraw": false,
-                    "history": false,
-                    "sep24": false,
                     "disabled": false,
-                    "unlisted": false,
-                    "coinmarketcap_id": null
+                    "important": false
+                },
+                {
+                    "code": "DALA",
+                    "issuer": "GAYJHLFCRMXASP4AEKLHAGO76NCQPHFJXLV7P5LS2CUO5GTUISPVVQFL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": true
+                }
+            ]
+        },
+        {
+            "display_name": "Clear Companies",
+            "domain": "Clear_Companies.io",
+            "website": "https://Clear_Companies.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CLEAR",
+                    "issuer": "GDE5NCFO3HI2VEQVVH5WYYA6AGZGWMA5VTLOHALACEL32GSLKHD3IZBE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": true
+                }
+            ]
+        },
+        {
+            "display_name": "ClearAssure",
+            "domain": "ClearAssure.io",
+            "website": "https://ClearAssure.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CASPV",
+                    "issuer": "GDBDZ6V7AWPDIIJ2AHKTLXA3YWYAAITPYUZDPYAOGT4IWTUCFSNDXXQD",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearCellular Limited",
+            "domain": "ClearCellular_Limited.io",
+            "website": "https://ClearCellular_Limited.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CCL",
+                    "issuer": "GCZBVXB5NNDVSZCM33I57BFCXG5IWH2KRXUXOILBKT4GNZDHRO3C3WKM",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearEnergy, Inc.",
+            "domain": "ClearEnergy,_Inc..io",
+            "website": "https://ClearEnergy,_Inc..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CEI",
+                    "issuer": "GC3FHCWWXLMVAORI42LYXHQ2ON4YIK6MTFB6DYC7WEZPP2OT2MOUUYAO",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearCellular, D-Corp.",
+            "domain": "ClearCellular,_D-Corp..io",
+            "website": "https://ClearCellular,_D-Corp..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CELL",
+                    "issuer": "GCVMAQSS2SCRXSEXGSNXRU7N2BE76LFLJU6EQV4BNSCRXGUYC4B57TCP",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearFoundation, LTD.",
+            "domain": "ClearFoundation,_LTD..io",
+            "website": "https://ClearFoundation,_LTD..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CFL",
+                    "issuer": "GBOUYKHNVIGIUKT4UD5JOXYATCVWW3TN4CE54HBNR5ECTXL6CAPS77PE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ABC Corp",
+            "domain": "ABC_Corp.io",
+            "website": "https://ABC_Corp.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ABCC",
+                    "issuer": "GAVVGLLCYDILSF7KLNGLMQIB7KKUAID274QIAFNVWBZPI4H3G6JSECGE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "NJ Holdings",
+            "domain": "NJ_Holdings.io",
+            "website": "https://NJ_Holdings.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ACP",
+                    "issuer": "GBEX77RJDYG2HYWV7TS7AVJSATP76JP4654C7PK5QM27EZ5NW5LYQDLJ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Liberty City",
+            "domain": "Liberty_City.io",
+            "website": "https://Liberty_City.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "AMAGI",
+                    "issuer": "GCAIKFNQLEAVDIWSF3QHKJU32IKCJ2N3XEO6YQEYFDZT64JCQCDB65OS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "LLAND",
+                    "issuer": "GB6DHCPLLTCDTYVWO7ZD6DEYA7IQDECPCB53GPWBMRTVMKUVFFAQXU3T",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Arete Management Inc ",
+            "domain": "Arete_Management_Inc_.io",
+            "website": "https://Arete_Management_Inc_.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "AMI",
+                    "issuer": "GBFENE2CPZDYQ7N4KNJH3M53XZU5PF76QAEBXOBSI7U47FZWVKB6WLA5",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "HTEST",
+            "domain": "HTEST.io",
+            "website": "https://HTEST.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ASDFGH",
+                    "issuer": "GDJYX25UUB7YF4UQLRMLUXEOXJPOL47MOVQWS3UJSEWCEIT55V4RLNGT",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "BDEST",
+                    "issuer": "GCEDLPMOUKX3HTKSSODQQA4OSGDUTUTSMFBS7W54VBXCWBI2JI4YCHW7",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "GHOSTR",
+                    "issuer": "GDECIH5VTEGHOX273QFNEH7JIIXHPXPNLPZK7MM57FJVCGSHX55MIH2M",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "GHOSTR2",
+                    "issuer": "GC55VDQQJMDDRKCWOEGCBINZN5FJWZ2TV4PAKWI7GV4BXXUD3FMTVB5C",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Assure Fund",
+            "domain": "Assure_Fund.io",
+            "website": "https://Assure_Fund.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ASSURE",
+                    "issuer": "GDP6QHNIKH5HJA35BSTDAKZZRUAHO74ZW25FCFADJN2L6EOTANLUNTBQ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "World Health Organization",
+            "domain": "World_Health_Organization.io",
+            "website": "https://World_Health_Organization.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ASTR",
+                    "issuer": "GCFW3625ACIF2D3A37D2TZPLXFURYOLAOX5V4UQHMFLYNL3DMCRLEDJF",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TESBB",
+                    "issuer": "GBZ53VO53NXD3P7ZIEBZIKKKNQ33BJABMNI6F5ZSQHLVR3RGA5KNSOU2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TEST",
+                    "issuer": "GDYSSF2AFXYBCC2NR6A7PQIU5WAY26IED4JSCTY3MIJN6DIYBDQOMZAC",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TEST11",
+                    "issuer": "GADX33RHVQXFALUOE7MP5T6MZUMEC2ABB4XU4AJXEVQ4WXSXOTA3Z3H2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TOPO5",
+                    "issuer": "GC5CIOJ63YGQSI5WJGLGHWMAEEQP46H2UPOCNBLRJVF54JNSY7TKTMBY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "V2121",
+                    "issuer": "GB63X7H4S2BIRNCVCQXKYNNRAQCUFYLHUFT6PMNNJ3EIPOCAFNQNKUTH",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "VI222",
+                    "issuer": "GBV6OWQCOF4QMOJA6UUXUS6YDPXOT2XD6ULKYHTUYCO7B2ML4QOXYKCY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "WHOC",
+                    "issuer": "GBF6OOG5BEXO2VQRDLKJ4GQK43MOI5DVJWKXBDMUJQONXA6M24U7HBXK",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Beans and Rice",
+            "domain": "Beans_and_Rice.io",
+            "website": "https://Beans_and_Rice.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "BEANS",
+                    "issuer": "GBOBJJ5RJX3BFGCRRTR7ADDYE5IS2NUKM5RBBHIBWUB72ER5IV5LM3SS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Bitchute DAO",
+            "domain": "Bitchute_DAO.io",
+            "website": "https://Bitchute_DAO.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "BIT",
+                    "issuer": "GCUIZRPHXVJAR4I6AKSYMTPK5I2K3STI2L3V4RVJSDN57HS7S3JWFAYS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "BORG",
+            "domain": "BORG.io",
+            "website": "https://BORG.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "BORG",
+                    "issuer": "GBOZOJKILMQXDDUECEDHG57AEUY37Z5ALPRREWCKHMQEDKCK4MK7YRCM",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Bob's Poultry Farm ",
+            "domain": "Bob's_Poultry_Farm_.io",
+            "website": "https://Bob's_Poultry_Farm_.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CHIK",
+                    "issuer": "GC2COH4FFU4AXHSUB7EJA5L57UWI2G3EIOZXMMSHRXQTZXR2Q4DUA77V",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearLegal",
+            "domain": "ClearLegal.io",
+            "website": "https://ClearLegal.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CLI",
+                    "issuer": "GD25JMKCTQW5ZGJQJG7EPVZUTJZGVOJPP5KG762VMBEF3EXIHHR46TV4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "SuperWallet DAO",
+            "domain": "SuperWallet_DAO.io",
+            "website": "https://SuperWallet_DAO.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DBME",
+                    "issuer": "GA7OOXBUV2TMT37NHNSYF5RLPPIZBFJ4DTSJL762DKAL3CMLWHRW5KYW",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "D-BUSINESS",
+            "domain": "D-BUSINESS.io",
+            "website": "https://D-BUSINESS.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DBU2",
+                    "issuer": "GDEVYNZ6NVFVVGCQS2ZAZ46YOYVBKITBDFWWMSSKBLRGWSIVQJG5FE5T",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DBU3",
+                    "issuer": "GCX7XFU63GHEDBN4RMLJR5M6IUO2QTOTJPXTS3FZZNNPCSQFY7FQXZPH",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DBUS",
+                    "issuer": "GCP3IPQGRC3FVWNOKIHRKMMQREC4GWSHDEZFBTX6MVFGXMJPRGRGKWV7",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DRBT",
+                    "issuer": "GAQJK4OFJERELVN27PLFEFIM5INZUI3LOSBWCEFVTO5FDUWILJUUTNTF",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Cook Islands",
+            "domain": "Cook_Islands.io",
+            "website": "https://Cook_Islands.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DCID",
+                    "issuer": "GDUT7HN2LHWYVMQU5XFDKTTFQAAZK3IFGPHJHWK3SCLRX3EXH5I7NYEU",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "DIBI2",
+            "domain": "DIBI2.io",
+            "website": "https://DIBI2.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DIBI5",
+                    "issuer": "GAEYRMSASY4YEMQDSJ3QOEB3DWDJWASRHH765OZSKDUDBNEUPVVHCAHC",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DIBI6",
+                    "issuer": "GCFY2ULTHIJDFO3Z3LI2FXXOS72KPAJ7JCATB574S7LC5EWY7KSKRXIE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Mexican Country",
+            "domain": "Mexican_Country.io",
+            "website": "https://Mexican_Country.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DMXN",
+                    "issuer": "GDJJ65D366RJGUOQ5OZEIWIHP4Z5Y3RAI7ZIF22BJI5YXRCSIW6D5MKP",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Digital Associaton",
+            "domain": "Digital_Associaton.io",
+            "website": "https://Digital_Associaton.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DORG",
+                    "issuer": "GDSQKBFMTVJCPGC227UIHZX5UHP2JWARO2B4OV3KTEC7XIE6MFO7IZRL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Dev Test Org",
+            "domain": "Dev_Test_Org.io",
+            "website": "https://Dev_Test_Org.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DTTT",
+                    "issuer": "GA2T5IJ3T3OKAANMW5H2LAOJ35B4I7LV3HTG3ZMS4CJJVUPSPWRBVT2U",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tuvalu",
+            "domain": "Tuvalu.io",
+            "website": "https://Tuvalu.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DTV",
+                    "issuer": "GDWR7EJKDLVNJ7X2EKYPLQFR7FIUXTIQVANSGHVSLPJE7MA2MQRGGFVM",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DTVD",
+                    "issuer": "GBV5KPG4CB4NMGWWPDTAP7QHM4BQARNVFTROTE4WNH4JVZI2OVZU23AT",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TUVALU",
+                    "issuer": "GDPZMUCA2LTD4QOKWEJKDFVRXZC3RP6HMYASZLGT2RJXW4MLOGDHWYVZ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Costa Rica",
+            "domain": "Costa_Rica.io",
+            "website": "https://Costa_Rica.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ELC",
+                    "issuer": "GCIWMXA7CPJXVD5J4FNPAL6L4CIDMEHR3GOBWB67VYZLHPS3ZYNE3ENI",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Enable South Pacific",
+            "domain": "Enable_South_Pacific.io",
+            "website": "https://Enable_South_Pacific.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ESP",
+                    "issuer": "GDBPAUQ6GYHRAN4AWYJ6LWMQFIDFFX3AQKVABD3TDKVD3STWVE32WW3K",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "EYES688",
+            "domain": "EYES688.io",
+            "website": "https://EYES688.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "EYES",
+                    "issuer": "GBSF2N3JOFSVNL532S3KSQ5O5GJUKTVO3ZM5YELR2UMGFZMT2MW5UE6K",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Proper Farm DLLC",
+            "domain": "Proper_Farm_DLLC.io",
+            "website": "https://Proper_Farm_DLLC.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "FARM",
+                    "issuer": "GC6UJ6SEWQXG4ECFEIVMNOY72TUIXWS4E56VW3LJWSSBZL3JPNSA26OL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "PAPAYA",
+                    "issuer": "GAFAFFFHG2YNN5Z33BWGL5AJFJ73MJDDBSNCSC3OXTBMU5T7YYZJX6BX",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Fiji Airways",
+            "domain": "Fiji_Airways.io",
+            "website": "https://Fiji_Airways.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "FASR",
+                    "issuer": "GDRE2S74W2D5SDZUQ4NHACLHXGZHPX75PGU6LNBI6NNB3K4VCZTR5TAY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Fiji",
+            "domain": "Fiji.io",
+            "website": "https://Fiji.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "FIJI",
+                    "issuer": "GDIQ5LTYTYYGM2TVLTFAZVXE5BLQAVIMJB4ZKGTLYB3H7FSPU2Z2XDY4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "GR Group",
+            "domain": "GR_Group.io",
+            "website": "https://GR_Group.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "GRACE",
+                    "issuer": "GDXN7EBU5TQMDXVPWCYYNMSQQS5FTOQ4IGRX63N7HEOKWQCHLHBK4BQS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Hakodesh & Associates PTY",
+            "domain": "Hakodesh_&_Associates_PTY.io",
+            "website": "https://Hakodesh_&_Associates_PTY.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "HAPYT",
+                    "issuer": "GBP2SLJJXZRAIZMRMVLQA3KSMMTYIQWXXJKAYMCELCZO7K6ZCT4GJCR4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "HASH203",
+            "domain": "HASH203.io",
+            "website": "https://HASH203.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "HASH204",
+                    "issuer": "GBDEHISVSOE3NHXLNNSESDX2Y5SHQKLDTO5LP2ZWXPL2V43KY764OW4R",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH205",
+                    "issuer": "GDBXP2IP4HZGSG275SHEMIGV6QCD6MRVJW5BBAI4SHNKVSIMDPRFRRGX",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH206",
+                    "issuer": "GCK4MOSYGX7G4KFJ2OUD67JFPZ3OMVQCJZUKDD7WBRKQU2UFVYTGZD2E",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH207",
+                    "issuer": "GAAJHA4PYJ3Q7FE3IMA3QAL3XFPMX4RYY5EOTKZDOEGAPIA4DB3G2Z4L",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH208",
+                    "issuer": "GA3MQFGKDGBWQAYJC5UK4CZVZJW542Y25D6ALEUSH4D3Z4ADTUWAXXZ2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "JayMail",
+            "domain": "JayMail.io",
+            "website": "https://JayMail.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JAY",
+                    "issuer": "GDNSHIE2GU3GL52ISZNP3WWR45RI7O3BMWFJXYL7KQODYM2ZOIRM5W26",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "JJIKE",
+            "domain": "JJIKE.io",
+            "website": "https://JJIKE.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JJIKE",
+                    "issuer": "GB3FJMX6YV57RFYZHYXPTZ6QBAJXIWDPV5UL23YPIFHIJ2PNFXQVECK4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "By John Michael",
+            "domain": "By_John_Michael.io",
+            "website": "https://By_John_Michael.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JM1",
+                    "issuer": "GBJGNKXRDP4N7E7MQ4QAPNGVZLMMEZZGSYNX63PR7VJTZHKWHRI3AQY4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "RDT",
+                    "issuer": "GBF26KE6AY63EPDMTHFERIK2R5HZM2SZGKPUR5NGVFKNGRJIT5WYXHKY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TESTK",
+                    "issuer": "GDCXOX6PLVN7ABLVUWFJVPBBOW4JX4BASVUS7BK5AFJQVYCSXL7XBTFY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "JNT SPV",
+            "domain": "JNT_SPV.io",
+            "website": "https://JNT_SPV.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JNT",
+                    "issuer": "GA7CCI4QRPUT36V525AGEKKK3NMOL6WKV6YGFN7Y6QAZBVYQPV3JGC6K",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearWater, DLLCT.",
+            "domain": "ClearWater,_DLLCT..io",
+            "website": "https://ClearWater,_DLLCT..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "L50CAT",
+                    "issuer": "GDJCEHVP7UJ64DCF3IIZFM3B7Y2P2DX7JOT6B3MMVQOPHLILPBZB7AV5",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Lahaina Healing Foundation",
+            "domain": "Lahaina_Healing_Foundation.io",
+            "website": "https://Lahaina_Healing_Foundation.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "LHF",
+                    "issuer": "GCMHC6J5LLP6MHZP52GFMS3V7ZULWQIVMA22EJFWCIB72CW7GEWILUYR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Kaizen, DLLC.",
+            "domain": "Kaizen,_DLLC..io",
+            "website": "https://Kaizen,_DLLC..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "LSS",
+                    "issuer": "GCHYGUFO3TPOSAZHMU7WVQFT6CMAA2XDM2MV7UT3NPUUEUGXG2OMZJST",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Letsgold",
+            "domain": "Letsgold.io",
+            "website": "https://Letsgold.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "LTG",
+                    "issuer": "GD4B2TAKM4V4T67N2HGNDVWOLBQ3HYJUFYH2DFFMFKIZIZ44PTKITFL6",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Marriott International, Inc.",
+            "domain": "Marriott_International,_Inc..io",
+            "website": "https://Marriott_International,_Inc..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "MARRIOTT",
+                    "issuer": "GDHPGU7OIA6ZJEPLCFVKFVSBRQZ64FSDJCITORRWNTDIQBAGIUOWOXA3",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Midway Holdings",
+            "domain": "Midway_Holdings.io",
+            "website": "https://Midway_Holdings.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "MHAP",
+                    "issuer": "GA6RR5NS2TSZVVBNHJNALLVADM537Q2GHOF5HSCWBZPOIEQSSV6NW4NK",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Proper Family Trust",
+            "domain": "Proper_Family_Trust.io",
+            "website": "https://Proper_Family_Trust.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "MPLI",
+                    "issuer": "GCIDN5VDWKZT5Z72M5JKUTMHBF6NSCZHIHHOSAFCKSGBBCVHCKT23W6H",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "SPLI",
+                    "issuer": "GACIXFR6SDTLOXFKZIZQQK743SC3LPWXRMRWNBPMQVMBSGJBNWF6G2VS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Vikas Org",
+            "domain": "Vikas_Org.io",
+            "website": "https://Vikas_Org.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "POLO",
+                    "issuer": "GB26GJ5PJEPJQNKIMXSNQN4L7OLWTVSD7B7MXTY7GPFA5QTN42DTMPAX",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Nandro",
+            "domain": "Nandro.io",
+            "website": "https://Nandro.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "REEEE",
+                    "issuer": "GAYSLO37EQVDBSSV4MV4XL5TV3XW5S7ZQ6CGSYO6PDZHUX65FHED6IIJ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "RETROX",
+                    "issuer": "GCB5PJXPEMRWZKUJGDH7O2UXTFHCONBJ3R7ABKKZOLLQO2CICP3EDDV7",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Rebecca Johnston Foundation",
+            "domain": "Rebecca_Johnston_Foundation.io",
+            "website": "https://Rebecca_Johnston_Foundation.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "RJF",
+                    "issuer": "GAZIDA3UPRCBNZ5XID5XXO7WSR5ILO34T3BETT4C54UEGES6VZ2GS235",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Samoa",
+            "domain": "Samoa.io",
+            "website": "https://Samoa.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "SAMOA",
+                    "issuer": "GBQX3VM2DSKJXWDWJU4OOG4X6WLOETK2SBWJGDE3K4XZIGPQTTXYGRYN",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Space Exploration Technologies Corp.",
+            "domain": "Space_Exploration_Technologies_Corp..io",
+            "website": "https://Space_Exploration_Technologies_Corp..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "SPACEX",
+                    "issuer": "GCCT763DQZHELHHO4QMEHG7CW4GI4GTJEKZTAZELYMSZSASJMY3SAFHL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tuvalu First Bank",
+            "domain": "Tuvalu_First_Bank.io",
+            "website": "https://Tuvalu_First_Bank.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TFB",
+                    "issuer": "GCDB2A2QRNMDDHMMKP7FLJAR7BTPXVDUUH7YPIAB6U6F4LZ377VSY4ZT",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "new org 101",
+            "domain": "new_org_101.io",
+            "website": "https://new_org_101.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER1",
+                    "issuer": "GCKD3ZORXJZFT64CMWKAMX5STCGRK6YB5E2J4UQEZO2D2VKQ2KXKDJ2J",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "org 23",
+            "domain": "org_23.io",
+            "website": "https://org_23.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER23",
+                    "issuer": "GBCPZPT4XIHFYK6MB72XI6FI45QDL2QAKTAVBTAOIL2H27S2OHMHRCW5",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TICKER24",
+                    "issuer": "GCRTTCFFWWQ3MRCQL242CWSLHGQSXE5HGEQC7N5HXJPJOK3QRSVFYVR3",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "test organization 11",
+            "domain": "test_organization_11.io",
+            "website": "https://test_organization_11.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER30",
+                    "issuer": "GDJY73FBYBDJ6AFZXBKUCD6EAEBVPDTMMPBXX7H2PDU3SDVCNKZC6T5B",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TICKER40",
+                    "issuer": "GBTAXLK6NYWS5RRP7YMM7BIDGVE2NGVMQ6XDV4NL6TJ3PSUQYDZT3W4C",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "test 31",
+            "domain": "test_31.io",
+            "website": "https://test_31.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER31",
+                    "issuer": "GBMSIW2HV43VGJFM5TWFXX67OFF7KIUVL3M4LRYYRQUXUVLBHGX4BPXN",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "org35",
+            "domain": "org35.io",
+            "website": "https://org35.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER35",
+                    "issuer": "GAODGQXOLCM6PI3QPXEGMU4HMFSMFZBRJ2XQ3AJEWV2KSNZIBN35KNQE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tonga",
+            "domain": "Tonga.io",
+            "website": "https://Tonga.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TONGA",
+                    "issuer": "GDGH3H2NMQYUHBGNXJHLEMKJN4XUZJP5CCPRIQQ4ZKEWCQFAYJG6BHY2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "TRUSTEEZ",
+            "domain": "TRUSTEEZ.io",
+            "website": "https://TRUSTEEZ.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TRUSTZ",
+                    "issuer": "GCDZVHJFCK6W5QKY2YVDMR2JR4XEW37IWAL6ALCS5L7X245EGAO3LAFY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "DDDDD",
+            "domain": "DDDDD.io",
+            "website": "https://DDDDD.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TTEST2",
+                    "issuer": "GC6MUGNIY7LUULQVKD7GIEBVOKYE7RYOTDME22DFMXMSYEU5QSQXBCNV",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TTEST3",
+                    "issuer": "GDZWCRY2SUPHIQDL2HONJYZQL3DDZO63TNAXXVRXAV4XV6CMAOWAH3VU",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TTEST4",
+                    "issuer": "GDQSKE2WM7IHZTIHJ5EZIAES6SWHEX5VQ3TJQ46SQULIQZSZZPDI4FSR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TTEST5",
+                    "issuer": "GADEQ6PXLDQQXSHW3ATARWSW2ABA2DUAJOTSGWQTYU724G4KFUS3OONO",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "TuneTag",
+            "domain": "TuneTag.io",
+            "website": "https://TuneTag.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TUNE",
+                    "issuer": "GASUU5SSLVOQ6PAZN6UY3HGA7ZKNSXZHTPIZMDGECBCNWILZIAT3QVHC",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tanzania",
+            "domain": "Tanzania.io",
+            "website": "https://Tanzania.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TZS",
+                    "issuer": "GBWWWNZ3WQJ74MMHZVS7R6JIZUJUS4JW7M5JZTT6Y7PA77Q4YP5AN7CG",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Republic of the United States of America",
+            "domain": "Republic_of_the_United_States_of_America.io",
+            "website": "https://Republic_of_the_United_States_of_America.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "USC",
+                    "issuer": "GA57TW4JEPSG53AARMKUILK5ACBQ3POKRMG42YS76FAANGMNN3ATJV4U",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearHomes",
+            "domain": "ClearHomes.io",
+            "website": "https://ClearHomes.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "V1550",
+                    "issuer": "GACYAUVFADAVFJMEIGNRPYCIO36FHEABJEPQNTQ5ZVG4A6NGUMBGUHBR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "VoteBound",
+            "domain": "VoteBound.io",
+            "website": "https://VoteBound.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "VOTE",
+                    "issuer": "GDGG7ISAYPDCG3N5DFPRXHL4Q7UWW7Z3YHKMOOUF4RKJPFK565KPVZKZ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Wally Land",
+            "domain": "Wally_Land.io",
+            "website": "https://Wally_Land.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "WALLY",
+                    "issuer": "GBUEK6LWQMO47EMQSTWTT7YVFCHJYJXNJKJLTJCMCPWQ7MPOJY6KPBXR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Zellim DINC",
+            "domain": "Zellim_DINC.io",
+            "website": "https://Zellim_DINC.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ZELLIM",
+                    "issuer": "GCMRRMV6IZ6CHNKCLZQTCZ3WKWXU34UNUJ5RQNFM7IFNGJMMLJHK62AR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
                 }
             ]
         }
