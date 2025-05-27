@@ -19,24 +19,6 @@
             ]
         },
         {
-            "display_name": "MLB",
-            "domain": "MLB.com",
-            "website": "https://MLB.com",
-            "support": null,
-            "color": "#8ce5f7",
-            "assets": [
-                {
-                    "code": "ROCKIES",
-                    "issuer": "GBEMPR3GMGAPUPULEAFJQK5HKCTXEHOSINS6JUYKL3LC5O6J2OO5LA5C",
-                    "custom_transfer_domain": null,
-                    "custom_transfer_support": null,
-                    "is_counter_selling": false,
-                    "disabled": false,
-                    "important": true
-                }
-            ]
-        },
-        {
             "display_name": "DBTC DAO",
             "domain": "DBTC_DAO.io",
             "website": "https://DBTC_DAO.io",
