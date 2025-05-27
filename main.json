@@ -5,7 +5,7 @@
             "domain": "DUSD_DAO.io",
             "website": "https://DUSD_DAO.io",
             "support": null,
-            "color": "#43A047",
+            "color": "#8ce5f7",
             "assets": [
                 {
                     "code": "DUSD",
@@ -19,11 +19,29 @@
             ]
         },
         {
+            "display_name": "MLB",
+            "domain": "MLB.com",
+            "website": "https://MLB.com",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ROCKIES",
+                    "issuer": "GBEMPR3GMGAPUPULEAFJQK5HKCTXEHOSINS6JUYKL3LC5O6J2OO5LA5C",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": true
+                }
+            ]
+        },
+        {
             "display_name": "DBTC DAO",
             "domain": "DBTC_DAO.io",
             "website": "https://DBTC_DAO.io",
             "support": null,
-            "color": "#FFA000",
+            "color": "#8ce5f7",
             "assets": [
                 {
                     "code": "DBTC",
@@ -42,7 +60,7 @@
             "domain": "Hawaiian_Kingdom.io",
             "website": "https://Hawaiian_Kingdom.io",
             "support": null,
-            "color": "#E53935",
+            "color": "#8ce5f7",
             "assets": [
                 {
                     "code": "ALOHA",
@@ -69,7 +87,7 @@
             "domain": "Clear_Companies.io",
             "website": "https://Clear_Companies.io",
             "support": null,
-            "color": "#00ACC1",
+            "color": "#8ce5f7",
             "assets": [
                 {
                     "code": "CLEAR",
