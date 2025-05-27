@@ -1,1208 +1,1553 @@
 {
-  "ABCC": {
-    "code": "ABCC",
-    "issuer": "GAVVGLLCYDILSF7KLNGLMQIB7KKUAID274QIAFNVWBZPI4H3G6JSECGE",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1681966705_505b8de5b36a1a6755b6.png",
-    "org": "ABC Corp",
-    "color": "#8ce5f7",
-    "domain": "ABC_Corp.io",
-    "important": true
-  },
-  "ACP": {
-    "code": "ACP",
-    "issuer": "GBEX77RJDYG2HYWV7TS7AVJSATP76JP4654C7PK5QM27EZ5NW5LYQDLJ",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1669942317_595c0bcdda8aae16091e.png",
-    "org": "NJ Holdings",
-    "color": "#8ce5f7",
-    "domain": "NJ_Holdings.io",
-    "important": true
-  },
-  "ALOHA": {
-    "code": "ALOHA",
-    "issuer": "GAPBA6OUHCR3ENVTG63E4HBZREO3JOKEVMKGO25MG3QMHDH3AM6K74LY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1694773674_6bfc0a54893730bd8c8b.png",
-    "org": "Hawaiian Kingdom",
-    "color": "#8ce5f7",
-    "domain": "Hawaiian_Kingdom.io",
-    "important": true
-  },
-  "AMAGI": {
-    "code": "AMAGI",
-    "issuer": "GCAIKFNQLEAVDIWSF3QHKJU32IKCJ2N3XEO6YQEYFDZT64JCQCDB65OS",
-    "image": "https://backend.digitalworld.earth/uploads/assets/42148153bc7fd337b7748aef598754f8.png",
-    "org": "Liberty City",
-    "color": "#8ce5f7",
-    "domain": "Liberty_City.io",
-    "important": true
-  },
-  "AMI": {
-    "code": "AMI",
-    "issuer": "GBFENE2CPZDYQ7N4KNJH3M53XZU5PF76QAEBXOBSI7U47FZWVKB6WLA5",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692760013_322027c9b5fd571db062.png",
-    "org": "Arete Management Inc ",
-    "color": "#8ce5f7",
-    "domain": "Arete_Management_Inc_.io",
-    "important": true
-  },
-  "ASDFGH": {
-    "code": "ASDFGH",
-    "issuer": "GDJYX25UUB7YF4UQLRMLUXEOXJPOL47MOVQWS3UJSEWCEIT55V4RLNGT",
-    "image": "https://backend.hawaiian.life/uploads/assets/1694641226_3c0b79bddc166b2fa05e.png",
-    "org": "HTEST",
-    "color": "#8ce5f7",
-    "domain": "HTEST.io",
-    "important": true
-  },
-  "ASSURE": {
-    "code": "ASSURE",
-    "issuer": "GDP6QHNIKH5HJA35BSTDAKZZRUAHO74ZW25FCFADJN2L6EOTANLUNTBQ",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1667074794_9cb9411d41c6b1c19222.png",
-    "org": "Assure Fund",
-    "color": "#8ce5f7",
-    "domain": "Assure_Fund.io",
-    "important": true
-  },
-  "ASTR": {
-    "code": "ASTR",
-    "issuer": "GCFW3625ACIF2D3A37D2TZPLXFURYOLAOX5V4UQHMFLYNL3DMCRLEDJF",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678690374_967fcc21f4c93d9a7dc6.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "BDEST": {
-    "code": "BDEST",
-    "issuer": "GCEDLPMOUKX3HTKSSODQQA4OSGDUTUTSMFBS7W54VBXCWBI2JI4YCHW7",
-    "image": "https://backend.hawaiian.life/uploads/assets/1694551636_280ab4eb88e85cb74618.png",
-    "org": "HTEST",
-    "color": "#8ce5f7",
-    "domain": "HTEST.io",
-    "important": true
-  },
-  "BEANS": {
-    "code": "BEANS",
-    "issuer": "GBOBJJ5RJX3BFGCRRTR7ADDYE5IS2NUKM5RBBHIBWUB72ER5IV5LM3SS",
-    "image": "https://backend.hawaiian.life/uploads/assets/1742669308_35c132c099deac8064fc.png",
-    "org": "Beans and Rice",
-    "color": "#8ce5f7",
-    "domain": "Beans_and_Rice.io",
-    "important": true
-  },
-  "BIT": {
-    "code": "BIT",
-    "issuer": "GCUIZRPHXVJAR4I6AKSYMTPK5I2K3STI2L3V4RVJSDN57HS7S3JWFAYS",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692225228_93e5ea1bbdb291d75ef7.png",
-    "org": "Bitchute DAO",
-    "color": "#8ce5f7",
-    "domain": "Bitchute_DAO.io",
-    "important": true
-  },
-  "BMG": {
-    "code": "BMG",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1723073355_3207c275cf2bfcf75bf1.jpeg",
-    "org": "BMG Ventures",
-    "color": "#8ce5f7",
-    "domain": "BMG_Ventures.io",
-    "important": true
-  },
-  "BORG": {
-    "code": "BORG",
-    "issuer": "GBOZOJKILMQXDDUECEDHG57AEUY37Z5ALPRREWCKHMQEDKCK4MK7YRCM",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1741735574_a407ca011296b7dc5272.jpg",
-    "org": "BORG",
-    "color": "#8ce5f7",
-    "domain": "BORG.io",
-    "important": true
-  },
-  "CASPV": {
-    "code": "CASPV",
-    "issuer": "GDBDZ6V7AWPDIIJ2AHKTLXA3YWYAAITPYUZDPYAOGT4IWTUCFSNDXXQD",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680116116_c57206603c6cd3aca02a.png",
-    "org": "ClearAssure",
-    "color": "#8ce5f7",
-    "domain": "ClearAssure.io",
-    "important": true
-  },
-  "CCL": {
-    "code": "CCL",
-    "issuer": "GCZBVXB5NNDVSZCM33I57BFCXG5IWH2KRXUXOILBKT4GNZDHRO3C3WKM",
-    "image": "https://backend.digitalworld.earth/uploads/assets/3a32e21301a305f9ff9e67592d74a685.png",
-    "org": "ClearCellular Limited",
-    "color": "#8ce5f7",
-    "domain": "ClearCellular_Limited.io",
-    "important": true
-  },
-  "CEI": {
-    "code": "CEI",
-    "issuer": "GC3FHCWWXLMVAORI42LYXHQ2ON4YIK6MTFB6DYC7WEZPP2OT2MOUUYAO",
-    "image": "https://backend.digitalworld.earth/uploads/assets/92d8c32d0a48cb05394fda81f31edab5.png",
-    "org": "ClearEnergy, Inc.",
-    "color": "#8ce5f7",
-    "domain": "ClearEnergy_Inc.io",
-    "important": true
-  },
-  "CELL": {
-    "code": "CELL",
-    "issuer": "GCVMAQSS2SCRXSEXGSNXRU7N2BE76LFLJU6EQV4BNSCRXGUYC4B57TCP",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1739082831_19e2b99e5dd704218d5f.png",
-    "org": "ClearCellular, D-Corp.",
-    "color": "#8ce5f7",
-    "domain": "ClearCellular_D-Corp.io",
-    "important": true
-  },
-  "CFL": {
-    "code": "CFL",
-    "issuer": "GBOUYKHNVIGIUKT4UD5JOXYATCVWW3TN4CE54HBNR5ECTXL6CAPS77PE",
-    "image": "https://backend.digitalworld.earth/uploads/assets/560c0a81b7abf6621759bacb6e2483d3.png",
-    "org": "ClearFoundation, LTD.",
-    "color": "#8ce5f7",
-    "domain": "ClearFoundation_LTD.io",
-    "important": true
-  },
-  "CHIK": {
-    "code": "CHIK",
-    "issuer": "GC2COH4FFU4AXHSUB7EJA5L57UWI2G3EIOZXMMSHRXQTZXR2Q4DUA77V",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1676351662_0bb2466c35160c9979a0.png",
-    "org": "Bob's Poultry Farm ",
-    "color": "#8ce5f7",
-    "domain": "Bob's_Poultry_Farm_.io",
-    "important": true
-  },
-  "CLEAR": {
-    "code": "CLEAR",
-    "issuer": "GDE5NCFO3HI2VEQVVH5WYYA6AGZGWMA5VTLOHALACEL32GSLKHD3IZBE",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1741452315_08121b5f3d5060b92c34.png",
-    "org": "Clear Companies",
-    "color": "#8ce5f7",
-    "domain": "Clear_Companies.io",
-    "important": true
-  },
-  "CLI": {
-    "code": "CLI",
-    "issuer": "GD25JMKCTQW5ZGJQJG7EPVZUTJZGVOJPP5KG762VMBEF3EXIHHR46TV4",
-    "image": "https://backend.digitalworld.earth/uploads/assets/ee7be024d3c744d834b8f24160c06084.png",
-    "org": "ClearLegal",
-    "color": "#8ce5f7",
-    "domain": "ClearLegal.io",
-    "important": true
-  },
-  "DALA": {
-    "code": "DALA",
-    "issuer": "GAYJHLFCRMXASP4AEKLHAGO76NCQPHFJXLV7P5LS2CUO5GTUISPVVQFL",
-    "image": "https://backend.hawaiian.life/uploads/assets/1703042388_1b8baf3b3549522493dd.png",
-    "org": "Hawaiian Kingdom",
-    "color": "#8ce5f7",
-    "domain": "Hawaiian_Kingdom.io",
-    "important": true
-  },
-  "DBME": {
-    "code": "DBME",
-    "issuer": "GA7OOXBUV2TMT37NHNSYF5RLPPIZBFJ4DTSJL762DKAL3CMLWHRW5KYW",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1694043102_58ba30284fb036372694.png",
-    "org": "SuperWallet DAO",
-    "color": "#8ce5f7",
-    "domain": "SuperWallet_DAO.io",
-    "important": true
-  },
-  "DBTC": {
-    "code": "DBTC",
-    "issuer": "GA3LBKF4SRHYYUYW56QHRW2JNJOC73AV4HVRZOYHUTN73JTJA3BZ3BJ4",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1743196970_4ea3ce2185aa2c0c16f0.png",
-    "org": "DBTC DAO",
-    "color": "#8ce5f7",
-    "domain": "DBTC_DAO.io",
-    "important": true
-  },
-  "DBU2": {
-    "code": "DBU2",
-    "issuer": "GDEVYNZ6NVFVVGCQS2ZAZ46YOYVBKITBDFWWMSSKBLRGWSIVQJG5FE5T",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668795004_45a8e5ceaffb25dfc999.png",
-    "org": "D-BUSINESS",
-    "color": "#8ce5f7",
-    "domain": "D-BUSINESS.io",
-    "important": true
-  },
-  "DBU3": {
-    "code": "DBU3",
-    "issuer": "GCX7XFU63GHEDBN4RMLJR5M6IUO2QTOTJPXTS3FZZNNPCSQFY7FQXZPH",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668795441_d9618726386d3df35f24.png",
-    "org": "D-BUSINESS",
-    "color": "#8ce5f7",
-    "domain": "D-BUSINESS.io",
-    "important": true
-  },
-  "DBUS": {
-    "code": "DBUS",
-    "issuer": "GCP3IPQGRC3FVWNOKIHRKMMQREC4GWSHDEZFBTX6MVFGXMJPRGRGKWV7",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668791064_bd3f7db046ae4ce9462d.png",
-    "org": "D-BUSINESS",
-    "color": "#8ce5f7",
-    "domain": "D-BUSINESS.io",
-    "important": true
-  },
-  "DCASH": {
-    "code": "DCASH",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1704791296_f3b0136e316d74b84bc2.png",
-    "org": "Eastern Caribbean Country Union",
-    "color": "#8ce5f7",
-    "domain": "Eastern_Caribbean_Country_Union.io",
-    "important": true
-  },
-  "DCID": {
-    "code": "DCID",
-    "issuer": "GDUT7HN2LHWYVMQU5XFDKTTFQAAZK3IFGPHJHWK3SCLRX3EXH5I7NYEU",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678994095_b71300280f53aebdef69.png",
-    "org": "Cook Islands",
-    "color": "#8ce5f7",
-    "domain": "Cook_Islands.io",
-    "important": true
-  },
-  "DDD": {
-    "code": "DDD",
-    "issuer": "GCS3UX6EVKALG6QEIB3DPY5QKP64GFN7WMZE5GK3NJOQ5MPT26URP7R2",
-    "image": "https://backend.hawaiian.life/uploads/assets/1745006154_94d32c931f1689d6af34.png",
-    "org": "Triple DDD",
-    "color": "#8ce5f7",
-    "domain": "Triple_DDD.io",
-    "important": true
-  },
-  "DIBI2": {
-    "code": "DIBI2",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1736458216_2923a3a6602a9ce98c21.png",
-    "org": "DIBI2",
-    "color": "#8ce5f7",
-    "domain": "DIBI2.io",
-    "important": true
-  },
-  "DIBI3": {
-    "code": "DIBI3",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1736459044_586d4ce141a2810bb510.png",
-    "org": "DIBI2",
-    "color": "#8ce5f7",
-    "domain": "DIBI2.io",
-    "important": true
-  },
-  "DIBI4": {
-    "code": "DIBI4",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1736459188_854a5522b3f96aa14776.png",
-    "org": "DIBI",
-    "color": "#8ce5f7",
-    "domain": "DIBI.io",
-    "important": true
-  },
-  "DIBI5": {
-    "code": "DIBI5",
-    "issuer": "GAEYRMSASY4YEMQDSJ3QOEB3DWDJWASRHH765OZSKDUDBNEUPVVHCAHC",
-    "image": "https://backend.hawaiian.life/uploads/assets/1736463914_22d319ffacfead0617ba.png",
-    "org": "DIBI2",
-    "color": "#8ce5f7",
-    "domain": "DIBI2.io",
-    "important": true
-  },
-  "DIBI6": {
-    "code": "DIBI6",
-    "issuer": "GCFY2ULTHIJDFO3Z3LI2FXXOS72KPAJ7JCATB574S7LC5EWY7KSKRXIE",
-    "image": "https://backend.hawaiian.life/uploads/assets/1736464733_4bb399719ecb1ac6f449.png",
-    "org": "DIBI2",
-    "color": "#8ce5f7",
-    "domain": "DIBI2.io",
-    "important": true
-  },
-  "DMXN": {
-    "code": "DMXN",
-    "issuer": "GDJJ65D366RJGUOQ5OZEIWIHP4Z5Y3RAI7ZIF22BJI5YXRCSIW6D5MKP",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1725600522_b53ac643b1f00c0575de.png",
-    "org": "Mexican Country",
-    "color": "#8ce5f7",
-    "domain": "Mexican_Country.io",
-    "important": true
-  },
-  "DNVA": {
-    "code": "DNVA",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1747545888_6cdad7cd378381a25749.jpg",
-    "org": "Denovia",
-    "color": "#8ce5f7",
-    "domain": "Denovia.io",
-    "important": true
-  },
-  "DORG": {
-    "code": "DORG",
-    "issuer": "GDSQKBFMTVJCPGC227UIHZX5UHP2JWARO2B4OV3KTEC7XIE6MFO7IZRL",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678637652_9eafaf766e6a1fa437c1.png",
-    "org": "Digital Associaton",
-    "color": "#8ce5f7",
-    "domain": "Digital_Associaton.io",
-    "important": true
-  },
-  "DRBT": {
-    "code": "DRBT",
-    "issuer": "GAQJK4OFJERELVN27PLFEFIM5INZUI3LOSBWCEFVTO5FDUWILJUUTNTF",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668797541_e3533b4a2366f9f5842a.jpeg",
-    "org": "D-BUSINESS",
-    "color": "#8ce5f7",
-    "domain": "D-BUSINESS.io",
-    "important": true
-  },
-  "DTTT": {
-    "code": "DTTT",
-    "issuer": "GA2T5IJ3T3OKAANMW5H2LAOJ35B4I7LV3HTG3ZMS4CJJVUPSPWRBVT2U",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680051701_b4d45c3bcecbe8ca4913.jpeg",
-    "org": "Dev Test Org",
-    "color": "#8ce5f7",
-    "domain": "Dev_Test_Org.io",
-    "important": true
-  },
-  "DTV": {
-    "code": "DTV",
-    "issuer": "GDWR7EJKDLVNJ7X2EKYPLQFR7FIUXTIQVANSGHVSLPJE7MA2MQRGGFVM",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678972648_4ee2d02e36e11ab92540.png",
-    "org": "Tuvalu",
-    "color": "#8ce5f7",
-    "domain": "Tuvalu.io",
-    "important": true
-  },
-  "DTVD": {
-    "code": "DTVD",
-    "issuer": "GBV5KPG4CB4NMGWWPDTAP7QHM4BQARNVFTROTE4WNH4JVZI2OVZU23AT",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678973815_145abc4830923b83fea6.png",
-    "org": "Tuvalu",
-    "color": "#8ce5f7",
-    "domain": "Tuvalu.io",
-    "important": true
-  },
-  "DUSD": {
-    "code": "DUSD",
-    "issuer": "GA2I6PIKH4WKAFOIHINX75R7Q2IH6V62O7U3MLNN23BCKGVKO7ZVL66V",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1743273510_06027a0b5938d22b464d.png",
-    "org": "DUSD DAO",
-    "color": "#8ce5f7",
-    "domain": "DUSD_DAO.io",
-    "important": true
-  },
-  "ELC": {
-    "code": "ELC",
-    "issuer": "GCIWMXA7CPJXVD5J4FNPAL6L4CIDMEHR3GOBWB67VYZLHPS3ZYNE3ENI",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1670535624_b12e6f2fa832213097e0.jpeg",
-    "org": "Costa Rica",
-    "color": "#8ce5f7",
-    "domain": "Costa_Rica.io",
-    "important": true
-  },
-  "ESP": {
-    "code": "ESP",
-    "issuer": "GDBPAUQ6GYHRAN4AWYJ6LWMQFIDFFX3AQKVABD3TDKVD3STWVE32WW3K",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1677289440_f9539de8df54c0589302.png",
-    "org": "Enable South Pacific",
-    "color": "#8ce5f7",
-    "domain": "Enable_South_Pacific.io",
-    "important": true
-  },
-  "EYES": {
-    "code": "EYES",
-    "issuer": "GBSF2N3JOFSVNL532S3KSQ5O5GJUKTVO3ZM5YELR2UMGFZMT2MW5UE6K",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679092834_8f6d9d41e85edbd2bea9.png",
-    "org": "EYES688",
-    "color": "#8ce5f7",
-    "domain": "EYES688.io",
-    "important": true
-  },
-  "FAMILY": {
-    "code": "FAMILY",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1708988777_7b1f26326a137d971312.png",
-    "org": "MyFamily",
-    "color": "#8ce5f7",
-    "domain": "MyFamily.io",
-    "important": true
-  },
-  "FARM": {
-    "code": "FARM",
-    "issuer": "GC6UJ6SEWQXG4ECFEIVMNOY72TUIXWS4E56VW3LJWSSBZL3JPNSA26OL",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668807266_86afff896f977f1221de.png",
-    "org": "Proper Farm DLLC",
-    "color": "#8ce5f7",
-    "domain": "Proper_Farm_DLLC.io",
-    "important": true
-  },
-  "FASR": {
-    "code": "FASR",
-    "issuer": "GDRE2S74W2D5SDZUQ4NHACLHXGZHPX75PGU6LNBI6NNB3K4VCZTR5TAY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680111502_5e7f55fb2553e3ef5aac.png",
-    "org": "Fiji Airways",
-    "color": "#8ce5f7",
-    "domain": "Fiji_Airways.io",
-    "important": true
-  },
-  "FIJI": {
-    "code": "FIJI",
-    "issuer": "GDIQ5LTYTYYGM2TVLTFAZVXE5BLQAVIMJB4ZKGTLYB3H7FSPU2Z2XDY4",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679688325_27f09ec0855b4a4bc587.png",
-    "org": "Fiji",
-    "color": "#8ce5f7",
-    "domain": "Fiji.io",
-    "important": true
-  },
-  "GAIAFI": {
-    "code": "GAIAFI",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1714114686_5b7ce335224e18d9afa4.png",
-    "org": "Novena Trust",
-    "color": "#8ce5f7",
-    "domain": "Novena_Trust.io",
-    "important": true
-  },
-  "GBUT01": {
-    "code": "GBUT01",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1712352657_711e5a1e5a9ded29f294.jpeg",
-    "org": "Goldback, Inc.",
-    "color": "#8ce5f7",
-    "domain": "Goldback_Inc.io",
-    "important": true
-  },
-  "GHOSTR": {
-    "code": "GHOSTR",
-    "issuer": "GDECIH5VTEGHOX273QFNEH7JIIXHPXPNLPZK7MM57FJVCGSHX55MIH2M",
-    "image": "https://backend.hawaiian.life/uploads/assets/1695418209_e856f1cb2244688cf474.png",
-    "org": "HTEST",
-    "color": "#8ce5f7",
-    "domain": "HTEST.io",
-    "important": true
-  },
-  "GHOSTR2": {
-    "code": "GHOSTR2",
-    "issuer": "GC55VDQQJMDDRKCWOEGCBINZN5FJWZ2TV4PAKWI7GV4BXXUD3FMTVB5C",
-    "image": "https://backend.hawaiian.life/uploads/assets/1695419379_86871d18f4bb388f2cc0.png",
-    "org": "HTEST",
-    "color": "#8ce5f7",
-    "domain": "HTEST.io",
-    "important": true
-  },
-  "GRACE": {
-    "code": "GRACE",
-    "issuer": "GDXN7EBU5TQMDXVPWCYYNMSQQS5FTOQ4IGRX63N7HEOKWQCHLHBK4BQS",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680366100_1a53aa1bf2fb54bec660.png",
-    "org": "GR Group",
-    "color": "#8ce5f7",
-    "domain": "GR_Group.io",
-    "important": true
-  },
-  "GYMR": {
-    "code": "GYMR",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1710545790_21adf4bfe3f600d05b1d.png",
-    "org": "Aloha Gym",
-    "color": "#8ce5f7",
-    "domain": "Aloha_Gym.io",
-    "important": true
-  },
-  "HAPYT": {
-    "code": "HAPYT",
-    "issuer": "GBP2SLJJXZRAIZMRMVLQA3KSMMTYIQWXXJKAYMCELCZO7K6ZCT4GJCR4",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1675987934_ae021c95aec6f9985e2b.png",
-    "org": "Hakodesh & Associates PTY",
-    "color": "#8ce5f7",
-    "domain": "Hakodesh_&_Associates_PTY.io",
-    "important": true
-  },
-  "HASH204": {
-    "code": "HASH204",
-    "issuer": "GBDEHISVSOE3NHXLNNSESDX2Y5SHQKLDTO5LP2ZWXPL2V43KY764OW4R",
-    "image": "https://backend.hawaiian.life/uploads/assets/1701304429_8ee21c76d3833466158a.png",
-    "org": "HASH203",
-    "color": "#8ce5f7",
-    "domain": "HASH203.io",
-    "important": true
-  },
-  "HASH205": {
-    "code": "HASH205",
-    "issuer": "GDBXP2IP4HZGSG275SHEMIGV6QCD6MRVJW5BBAI4SHNKVSIMDPRFRRGX",
-    "image": "https://backend.hawaiian.life/uploads/assets/1701377312_56b8b3b6c3245bf318b9.png",
-    "org": "HASH203",
-    "color": "#8ce5f7",
-    "domain": "HASH203.io",
-    "important": true
-  },
-  "HASH206": {
-    "code": "HASH206",
-    "issuer": "GCK4MOSYGX7G4KFJ2OUD67JFPZ3OMVQCJZUKDD7WBRKQU2UFVYTGZD2E",
-    "image": "https://backend.hawaiian.life/uploads/assets/1701381838_dd074fc9ca943c1aec5a.png",
-    "org": "HASH203",
-    "color": "#8ce5f7",
-    "domain": "HASH203.io",
-    "important": true
-  },
-  "HASH207": {
-    "code": "HASH207",
-    "issuer": "GAAJHA4PYJ3Q7FE3IMA3QAL3XFPMX4RYY5EOTKZDOEGAPIA4DB3G2Z4L",
-    "image": "https://backend.hawaiian.life/uploads/assets/1701382347_8d2bfd3980104564be7b.png",
-    "org": "HASH203",
-    "color": "#8ce5f7",
-    "domain": "HASH203.io",
-    "important": true
-  },
-  "HASH208": {
-    "code": "HASH208",
-    "issuer": "GA3MQFGKDGBWQAYJC5UK4CZVZJW542Y25D6ALEUSH4D3Z4ADTUWAXXZ2",
-    "image": "https://backend.hawaiian.life/uploads/assets/1701382767_55967ec74c9e9b25fb49.png",
-    "org": "HASH203",
-    "color": "#8ce5f7",
-    "domain": "HASH203.io",
-    "important": true
-  },
-  "HLB": {
-    "code": "HLB",
-    "issuer": "GADF4BICNAGYP7LQZR5RGI427WQL7BF64OJ3JRHFHCL4MZKPKWCXIXMZ",
-    "image": "https://backend.hawaiian.life/uploads/assets/1744943677_2b7f110a7ec8470de5ca.png",
-    "org": "Hygge",
-    "color": "#8ce5f7",
-    "domain": "Hygge.io",
-    "important": true
-  },
-  "ICXTEXAS": {
-    "code": "ICXTEXAS",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1716664868_dd2bda77955e106a6f9e.png",
-    "org": "iLAMP",
-    "color": "#8ce5f7",
-    "domain": "iLAMP.io",
-    "important": true
-  },
-  "JAY": {
-    "code": "JAY",
-    "issuer": "GDNSHIE2GU3GL52ISZNP3WWR45RI7O3BMWFJXYL7KQODYM2ZOIRM5W26",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1667348893_565f3393e658497931e5.png",
-    "org": "JayMail",
-    "color": "#8ce5f7",
-    "domain": "JayMail.io",
-    "important": true
-  },
-  "JJIKE": {
-    "code": "JJIKE",
-    "issuer": "GB3FJMX6YV57RFYZHYXPTZ6QBAJXIWDPV5UL23YPIFHIJ2PNFXQVECK4",
-    "image": "https://backend.hawaiian.life/uploads/assets/1703259057_fef58d63e067a6ea49ef.jpeg",
-    "org": "JJIKE",
-    "color": "#8ce5f7",
-    "domain": "JJIKE.io",
-    "important": true
-  },
-  "JJIKEDW": {
-    "code": "JJIKEDW",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1703259159_2de634f5121100caf159.jpeg",
-    "org": "JJIKEDW",
-    "color": "#8ce5f7",
-    "domain": "JJIKEDW.io",
-    "important": true
-  },
-  "JMT": {
-    "code": "JMT",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1738445682_3b1b19e9b2ca6598c21a.jpg",
-    "org": "By John Michael",
-    "color": "#8ce5f7",
-    "domain": "By_John_Michael.io",
-    "important": true
-  },
-  "JNT": {
-    "code": "JNT",
-    "issuer": "GA7CCI4QRPUT36V525AGEKKK3NMOL6WKV6YGFN7Y6QAZBVYQPV3JGC6K",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668122200_2ba95f0c73db5bca8253.png",
-    "org": "JNT SPV",
-    "color": "#8ce5f7",
-    "domain": "JNT_SPV.io",
-    "important": true
-  },
-  "L50CAT": {
-    "code": "L50CAT",
-    "issuer": "GDJCEHVP7UJ64DCF3IIZFM3B7Y2P2DX7JOT6B3MMVQOPHLILPBZB7AV5",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1673553709_87bda7aa41a6c7b807ad.png",
-    "org": "ClearWater, DLLCT.",
-    "color": "#8ce5f7",
-    "domain": "ClearWater_DLLCT.io",
-    "important": true
-  },
-  "LFTT": {
-    "code": "LFTT",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1713390413_b8f3de79749add3678fb.jpg",
-    "org": "LION FACTORY DAO",
-    "color": "#8ce5f7",
-    "domain": "LION_FACTORY_DAO.io",
-    "important": true
-  },
-  "LHF": {
-    "code": "LHF",
-    "issuer": "GCMHC6J5LLP6MHZP52GFMS3V7ZULWQIVMA22EJFWCIB72CW7GEWILUYR",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1693459809_c237576decb6f9d645af.jpeg",
-    "org": "Lahaina Healing Foundation",
-    "color": "#8ce5f7",
-    "domain": "Lahaina_Healing_Foundation.io",
-    "important": true
-  },
-  "LIBERTY": {
-    "code": "LIBERTY",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1747255880_8af416c6fc42c272879b.png",
-    "org": "Liberty Entertainment Fund",
-    "color": "#8ce5f7",
-    "domain": "Liberty_Entertainment_Fund.io",
-    "important": true
-  },
-  "LLAND": {
-    "code": "LLAND",
-    "issuer": "GB6DHCPLLTCDTYVWO7ZD6DEYA7IQDECPCB53GPWBMRTVMKUVFFAQXU3T",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1695330683_235f2cd07cf0c5b8e5aa.png",
-    "org": "Liberty City",
-    "color": "#8ce5f7",
-    "domain": "Liberty_City.io",
-    "important": true
-  },
-  "LSS": {
-    "code": "LSS",
-    "issuer": "GCHYGUFO3TPOSAZHMU7WVQFT6CMAA2XDM2MV7UT3NPUUEUGXG2OMZJST",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1671152396_0f157b09910b8b340859.png",
-    "org": "Kaizen, DLLC.",
-    "color": "#8ce5f7",
-    "domain": "Kaizen_DLLC.io",
-    "important": true
-  },
-  "LTG": {
-    "code": "LTG",
-    "issuer": "GD4B2TAKM4V4T67N2HGNDVWOLBQ3HYJUFYH2DFFMFKIZIZ44PTKITFL6",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1668447035_16bceaeabd60ba6111f5.png",
-    "org": "Letsgold",
-    "color": "#8ce5f7",
-    "domain": "Letsgold.io",
-    "important": true
-  },
-  "MAPLE": {
-    "code": "MAPLE",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1748013139_37929217b8e32c4ba68d.png",
-    "org": "National Hockey League",
-    "color": "#8ce5f7",
-    "domain": "National_Hockey_League.io",
-    "important": true
-  },
-  "MARRIOTT": {
-    "code": "MARRIOTT",
-    "issuer": "GDHPGU7OIA6ZJEPLCFVKFVSBRQZ64FSDJCITORRWNTDIQBAGIUOWOXA3",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680109848_1d03fa61293f31eaabea.png",
-    "org": "Marriott International, Inc.",
-    "color": "#8ce5f7",
-    "domain": "Marriott_International_Inc.io",
-    "important": true
-  },
-  "MHAP": {
-    "code": "MHAP",
-    "issuer": "GA6RR5NS2TSZVVBNHJNALLVADM537Q2GHOF5HSCWBZPOIEQSSV6NW4NK",
-    "image": "https://backend.digitalworld.earth/uploads/assets/679c2e932cfdf30ba46a8ca0d71632ec.png",
-    "org": "Midway Holdings",
-    "color": "#8ce5f7",
-    "domain": "Midway_Holdings.io",
-    "important": true
-  },
-  "MPLI": {
-    "code": "MPLI",
-    "issuer": "GCIDN5VDWKZT5Z72M5JKUTMHBF6NSCZHIHHOSAFCKSGBBCVHCKT23W6H",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1675471477_6a1cdac53cc2e603ecfa.png",
-    "org": "Proper Family Trust",
-    "color": "#8ce5f7",
-    "domain": "Proper_Family_Trust.io",
-    "important": true
-  },
-  "PACIFIC": {
-    "code": "PACIFIC",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1746814502_360b52e2ba7a5eb31ccd.png",
-    "org": "Pacific Unity",
-    "color": "#8ce5f7",
-    "domain": "Pacific_Unity.io",
-    "important": true
-  },
-  "PAPAYA": {
-    "code": "PAPAYA",
-    "issuer": "GAFAFFFHG2YNN5Z33BWGL5AJFJ73MJDDBSNCSC3OXTBMU5T7YYZJX6BX",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1669874207_df9faf1a9eb0d9c6ba7f.png",
-    "org": "Proper Farm DLLC",
-    "color": "#8ce5f7",
-    "domain": "Proper_Farm_DLLC.io",
-    "important": true
-  },
-  "PHI": {
-    "code": "PHI",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1708553103_c7f7916c4b882e014cac.png",
-    "org": "Phireon",
-    "color": "#8ce5f7",
-    "domain": "Phireon.io",
-    "important": true
-  },
-  "POLO": {
-    "code": "POLO",
-    "issuer": "GB26GJ5PJEPJQNKIMXSNQN4L7OLWTVSD7B7MXTY7GPFA5QTN42DTMPAX",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1667205305_c3cc937c7c9d712616f3.jpg",
-    "org": "Vikas Org",
-    "color": "#8ce5f7",
-    "domain": "Vikas_Org.io",
-    "important": true
-  },
-  "PONO": {
-    "code": "PONO",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1711081130_efaca4ca5a4636b7bb8a.jpeg",
-    "org": "Pono Card",
-    "color": "#8ce5f7",
-    "domain": "Pono_Card.io",
-    "important": true
-  },
-  "PT1": {
-    "code": "PT1",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1736286395_800f59e5fca0320c7534.png",
-    "org": "Ampliphi Trees",
-    "color": "#8ce5f7",
-    "domain": "Ampliphi_Trees.io",
-    "important": true
-  },
-  "PUNA": {
-    "code": "PUNA",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1721338018_36b761fdfc498c67f585.png",
-    "org": "Punapods",
-    "color": "#8ce5f7",
-    "domain": "Punapods.io",
-    "important": true
-  },
-  "RADBOT": {
-    "code": "RADBOT",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1745618656_5208bb92674e8ef78bbe.png",
-    "org": "Radical Botanicals",
-    "color": "#8ce5f7",
-    "domain": "Radical_Botanicals.io",
-    "important": true
-  },
-  "RDT": {
-    "code": "RDT",
-    "issuer": "GBF26KE6AY63EPDMTHFERIK2R5HZM2SZGKPUR5NGVFKNGRJIT5WYXHKY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1738446851_d3087aef823d392fbb2d.png",
-    "org": "By John Michael",
-    "color": "#8ce5f7",
-    "domain": "By_John_Michael.io",
-    "important": true
-  },
-  "REEEE": {
-    "code": "REEEE",
-    "issuer": "GAYSLO37EQVDBSSV4MV4XL5TV3XW5S7ZQ6CGSYO6PDZHUX65FHED6IIJ",
-    "image": "https://backend.hawaiian.life/uploads/assets/1695683854_1d6f262c254174bfb8f6.png",
-    "org": "Nandro",
-    "color": "#8ce5f7",
-    "domain": "Nandro.io",
-    "important": true
-  },
-  "RETROX": {
-    "code": "RETROX",
-    "issuer": "GCB5PJXPEMRWZKUJGDH7O2UXTFHCONBJ3R7ABKKZOLLQO2CICP3EDDV7",
-    "image": "https://backend.hawaiian.life/uploads/assets/1695682905_671fa53c4146121e8ca4.png",
-    "org": "Nandro",
-    "color": "#8ce5f7",
-    "domain": "Nandro.io",
-    "important": true
-  },
-  "RJF": {
-    "code": "RJF",
-    "issuer": "GAZIDA3UPRCBNZ5XID5XXO7WSR5ILO34T3BETT4C54UEGES6VZ2GS235",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692847379_df8dafa06d178a6b1e5c.png",
-    "org": "Rebecca Johnston Foundation",
-    "color": "#8ce5f7",
-    "domain": "Rebecca_Johnston_Foundation.io",
-    "important": true
-  },
-  "SAMOA": {
-    "code": "SAMOA",
-    "issuer": "GBQX3VM2DSKJXWDWJU4OOG4X6WLOETK2SBWJGDE3K4XZIGPQTTXYGRYN",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680108674_c1afee3f7ba87d5a11a7.png",
-    "org": "Samoa",
-    "color": "#8ce5f7",
-    "domain": "Samoa.io",
-    "important": true
-  },
-  "SOFT": {
-    "code": "SOFT",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1683770660_58d26193a7e69aba1eee.png",
-    "org": "Software Factory Limited",
-    "color": "#8ce5f7",
-    "domain": "Software_Factory_Limited.io",
-    "important": true
-  },
-  "SOPHIA": {
-    "code": "SOPHIA",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1709696766_e3e4e71540d5c6001ec6.png",
-    "org": "Holy Wisdom Christian Mission Trust",
-    "color": "#8ce5f7",
-    "domain": "Holy_Wisdom_Christian_Mission_Trust.io",
-    "important": true
-  },
-  "SPACEX": {
-    "code": "SPACEX",
-    "issuer": "GCCT763DQZHELHHO4QMEHG7CW4GI4GTJEKZTAZELYMSZSASJMY3SAFHL",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680356575_dd7363da4aacf8fa6439.png",
-    "org": "Space Exploration Technologies Corp.",
-    "color": "#8ce5f7",
-    "domain": "Space_Exploration_Technologies_Corp.io",
-    "important": true
-  },
-  "SPLI": {
-    "code": "SPLI",
-    "issuer": "GACIXFR6SDTLOXFKZIZQQK743SC3LPWXRMRWNBPMQVMBSGJBNWF6G2VS",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1675470722_a211ed80bd0d170073d1.png",
-    "org": "Proper Family Trust",
-    "color": "#8ce5f7",
-    "domain": "Proper_Family_Trust.io",
-    "important": true
-  },
-  "TESBB": {
-    "code": "TESBB",
-    "issuer": "GBZ53VO53NXD3P7ZIEBZIKKKNQ33BJABMNI6F5ZSQHLVR3RGA5KNSOU2",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1682585281_142b6e42a4c1d77c6681.jpeg",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "TEST": {
-    "code": "TEST",
-    "issuer": "GDYSSF2AFXYBCC2NR6A7PQIU5WAY26IED4JSCTY3MIJN6DIYBDQOMZAC",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1676974237_59081c74852bdfa2c7e6.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "TEST11": {
-    "code": "TEST11",
-    "issuer": "GADX33RHVQXFALUOE7MP5T6MZUMEC2ABB4XU4AJXEVQ4WXSXOTA3Z3H2",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1675406271_2bc54d32888f15f293a8.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "TEST12": {
-    "code": "TEST12",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1675407532_d0f9ebb30b26ebad5a89.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "TESTK": {
-    "code": "TESTK",
-    "issuer": "GDCXOX6PLVN7ABLVUWFJVPBBOW4JX4BASVUS7BK5AFJQVYCSXL7XBTFY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1741459822_0ac4027f1088138398e0.png",
-    "org": "By John Michael",
-    "color": "#8ce5f7",
-    "domain": "By_John_Michael.io",
-    "important": true
-  },
-  "TFB": {
-    "code": "TFB",
-    "issuer": "GCDB2A2QRNMDDHMMKP7FLJAR7BTPXVDUUH7YPIAB6U6F4LZ377VSY4ZT",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679099606_86fb6f4f06029d242a26.jpg",
-    "org": "Tuvalu First Bank",
-    "color": "#8ce5f7",
-    "domain": "Tuvalu_First_Bank.io",
-    "important": true
-  },
-  "TICKER1": {
-    "code": "TICKER1",
-    "issuer": "GCKD3ZORXJZFT64CMWKAMX5STCGRK6YB5E2J4UQEZO2D2VKQ2KXKDJ2J",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692339864_72ab98bff519bded21db.png",
-    "org": "new org 101",
-    "color": "#8ce5f7",
-    "domain": "new_org_101.io",
-    "important": true
-  },
-  "TICKER23": {
-    "code": "TICKER23",
-    "issuer": "GBCPZPT4XIHFYK6MB72XI6FI45QDL2QAKTAVBTAOIL2H27S2OHMHRCW5",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692782684_82b8cf71ee1dae1b8092.jpg",
-    "org": "org 23",
-    "color": "#8ce5f7",
-    "domain": "org_23.io",
-    "important": true
-  },
-  "TICKER24": {
-    "code": "TICKER24",
-    "issuer": "GCRTTCFFWWQ3MRCQL242CWSLHGQSXE5HGEQC7N5HXJPJOK3QRSVFYVR3",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692783879_2e803ef83d0d9b074d92.jpg",
-    "org": "org 23",
-    "color": "#8ce5f7",
-    "domain": "org_23.io",
-    "important": true
-  },
-  "TICKER25": {
-    "code": "TICKER25",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692784594_fc31006e5c8f0f10e1bd.png",
-    "org": "org 23",
-    "color": "#8ce5f7",
-    "domain": "org_23.io",
-    "important": true
-  },
-  "TICKER30": {
-    "code": "TICKER30",
-    "issuer": "GDJY73FBYBDJ6AFZXBKUCD6EAEBVPDTMMPBXX7H2PDU3SDVCNKZC6T5B",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1689656355_cb5641421fa42551d2f0.jpeg",
-    "org": "test organization 11",
-    "color": "#8ce5f7",
-    "domain": "test_organization_11.io",
-    "important": true
-  },
-  "TICKER31": {
-    "code": "TICKER31",
-    "issuer": "GBMSIW2HV43VGJFM5TWFXX67OFF7KIUVL3M4LRYYRQUXUVLBHGX4BPXN",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692784752_fa2b3dbf3b5ec2ba04e4.png",
-    "org": "test 31",
-    "color": "#8ce5f7",
-    "domain": "test_31.io",
-    "important": true
-  },
-  "TICKER32": {
-    "code": "TICKER32",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692785415_6fcf62fd0bab013230ab.png",
-    "org": "test 31",
-    "color": "#8ce5f7",
-    "domain": "test_31.io",
-    "important": true
-  },
-  "TICKER35": {
-    "code": "TICKER35",
-    "issuer": "GAODGQXOLCM6PI3QPXEGMU4HMFSMFZBRJ2XQ3AJEWV2KSNZIBN35KNQE",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692785671_a52b950933565a1782d7.png",
-    "org": "org35",
-    "color": "#8ce5f7",
-    "domain": "org35.io",
-    "important": true
-  },
-  "TICKER40": {
-    "code": "TICKER40",
-    "issuer": "GBTAXLK6NYWS5RRP7YMM7BIDGVE2NGVMQ6XDV4NL6TJ3PSUQYDZT3W4C",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1689660196_20d8ca608ad3f57d2e39.jpeg",
-    "org": "test organization 11",
-    "color": "#8ce5f7",
-    "domain": "test_organization_11.io",
-    "important": true
-  },
-  "TICKERR": {
-    "code": "TICKERR",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1688548300_bcad249dc40b9d503599.png",
-    "org": "my demo organization",
-    "color": "#8ce5f7",
-    "domain": "my_demo_organization.io",
-    "important": true
-  },
-  "TONGA": {
-    "code": "TONGA",
-    "issuer": "GDGH3H2NMQYUHBGNXJHLEMKJN4XUZJP5CCPRIQQ4ZKEWCQFAYJG6BHY2",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1680107882_59b5e9fd5445f9b19b6c.png",
-    "org": "Tonga",
-    "color": "#8ce5f7",
-    "domain": "Tonga.io",
-    "important": true
-  },
-  "TOPO5": {
-    "code": "TOPO5",
-    "issuer": "GC5CIOJ63YGQSI5WJGLGHWMAEEQP46H2UPOCNBLRJVF54JNSY7TKTMBY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1675358682_bb096124fec9eae646c7.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "TRUSTZ": {
-    "code": "TRUSTZ",
-    "issuer": "GCDZVHJFCK6W5QKY2YVDMR2JR4XEW37IWAL6ALCS5L7X245EGAO3LAFY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1663708044_43a9775dd1cb14c82ef3.png",
-    "org": "TRUSTEEZ",
-    "color": "#8ce5f7",
-    "domain": "TRUSTEEZ.io",
-    "important": true
-  },
-  "TTEST": {
-    "code": "TTEST",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679008387_436625ab05863a4fbb69.png",
-    "org": "DDDDD",
-    "color": "#8ce5f7",
-    "domain": "DDDDD.io",
-    "important": true
-  },
-  "TTEST2": {
-    "code": "TTEST2",
-    "issuer": "GC6MUGNIY7LUULQVKD7GIEBVOKYE7RYOTDME22DFMXMSYEU5QSQXBCNV",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678992760_0993dd98700d8934b8bb.png",
-    "org": "DDDDD",
-    "color": "#8ce5f7",
-    "domain": "DDDDD.io",
-    "important": true
-  },
-  "TTEST3": {
-    "code": "TTEST3",
-    "issuer": "GDZWCRY2SUPHIQDL2HONJYZQL3DDZO63TNAXXVRXAV4XV6CMAOWAH3VU",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679009297_5b55a141e6c47d4f6449.png",
-    "org": "DDDDD",
-    "color": "#8ce5f7",
-    "domain": "DDDDD.io",
-    "important": true
-  },
-  "TTEST4": {
-    "code": "TTEST4",
-    "issuer": "GDQSKE2WM7IHZTIHJ5EZIAES6SWHEX5VQ3TJQ46SQULIQZSZZPDI4FSR",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679010660_c555089d3ddfcda416ec.png",
-    "org": "DDDDD",
-    "color": "#8ce5f7",
-    "domain": "DDDDD.io",
-    "important": true
-  },
-  "TTEST5": {
-    "code": "TTEST5",
-    "issuer": "GADEQ6PXLDQQXSHW3ATARWSW2ABA2DUAJOTSGWQTYU724G4KFUS3OONO",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679087771_dcb754297d242eb872c3.png",
-    "org": "DDDDD",
-    "color": "#8ce5f7",
-    "domain": "DDDDD.io",
-    "important": true
-  },
-  "TUNE": {
-    "code": "TUNE",
-    "issuer": "GASUU5SSLVOQ6PAZN6UY3HGA7ZKNSXZHTPIZMDGECBCNWILZIAT3QVHC",
-    "image": "https://backend.hawaiian.life/uploads/assets/1744225729_66664f8d3867845189e2.png",
-    "org": "TuneTag",
-    "color": "#8ce5f7",
-    "domain": "TuneTag.io",
-    "important": true
-  },
-  "TUVALU": {
-    "code": "TUVALU",
-    "issuer": "GDPZMUCA2LTD4QOKWEJKDFVRXZC3RP6HMYASZLGT2RJXW4MLOGDHWYVZ",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1679836706_7caa60691a8eca4ab52a.png",
-    "org": "Tuvalu",
-    "color": "#8ce5f7",
-    "domain": "Tuvalu.io",
-    "important": true
-  },
-  "TZS": {
-    "code": "TZS",
-    "issuer": "GBWWWNZ3WQJ74MMHZVS7R6JIZUJUS4JW7M5JZTT6Y7PA77Q4YP5AN7CG",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1672276048_8174b7072b20949438aa.png",
-    "org": "Tanzania",
-    "color": "#8ce5f7",
-    "domain": "Tanzania.io",
-    "important": true
-  },
-  "USC": {
-    "code": "USC",
-    "issuer": "GA57TW4JEPSG53AARMKUILK5ACBQ3POKRMG42YS76FAANGMNN3ATJV4U",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1723492796_7df3d46c172f0ab65d33.png",
-    "org": "Republic of the United States of America",
-    "color": "#8ce5f7",
-    "domain": "Republic_of_the_United_States_of_America.io",
-    "important": true
-  },
-  "UTE": {
-    "code": "UTE",
-    "issuer": "",
-    "image": "https://backend.digitalworld.earth/uploads/assets/58d9a7253f6572733ecbf513bd7d4845.jpeg",
-    "org": "Ute Tribe",
-    "color": "#8ce5f7",
-    "domain": "Ute_Tribe.io",
-    "important": true
-  },
-  "V1550": {
-    "code": "V1550",
-    "issuer": "GACYAUVFADAVFJMEIGNRPYCIO36FHEABJEPQNTQ5ZVG4A6NGUMBGUHBR",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1692932531_4860f51e0f77f47d9b04.png",
-    "org": "ClearHomes",
-    "color": "#8ce5f7",
-    "domain": "ClearHomes.io",
-    "important": true
-  },
-  "V2121": {
-    "code": "V2121",
-    "issuer": "GB63X7H4S2BIRNCVCQXKYNNRAQCUFYLHUFT6PMNNJ3EIPOCAFNQNKUTH",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678983211_6dc7070ac9ad826a15d3.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "VI222": {
-    "code": "VI222",
-    "issuer": "GBV6OWQCOF4QMOJA6UUXUS6YDPXOT2XD6ULKYHTUYCO7B2ML4QOXYKCY",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1678982793_bcc3f86c7bd531995219.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "VOTE": {
-    "code": "VOTE",
-    "issuer": "GDGG7ISAYPDCG3N5DFPRXHL4Q7UWW7Z3YHKMOOUF4RKJPFK565KPVZKZ",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1671135284_774d1dc55f06f5760ccf.png",
-    "org": "VoteBound",
-    "color": "#8ce5f7",
-    "domain": "VoteBound.io",
-    "important": true
-  },
-  "WALLY": {
-    "code": "WALLY",
-    "issuer": "GBUEK6LWQMO47EMQSTWTT7YVFCHJYJXNJKJLTJCMCPWQ7MPOJY6KPBXR",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1667520829_fe632d5fe9df0d71ba4f.png",
-    "org": "Wally Land",
-    "color": "#8ce5f7",
-    "domain": "Wally_Land.io",
-    "important": true
-  },
-  "WEBS": {
-    "code": "WEBS",
-    "issuer": "",
-    "image": "https://backend.hawaiian.life/uploads/assets/1747437316_b01435fbcada8d0090ce.png",
-    "org": "Spidey Enterprises",
-    "color": "#8ce5f7",
-    "domain": "Spidey_Enterprises.io",
-    "important": true
-  },
-  "WHOC": {
-    "code": "WHOC",
-    "issuer": "GBF6OOG5BEXO2VQRDLKJ4GQK43MOI5DVJWKXBDMUJQONXA6M24U7HBXK",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1673509140_b85ab656279e499cb752.png",
-    "org": "World Health Organization",
-    "color": "#8ce5f7",
-    "domain": "World_Health_Organization.io",
-    "important": true
-  },
-  "ZELLIM": {
-    "code": "ZELLIM",
-    "issuer": "GCMRRMV6IZ6CHNKCLZQTCZ3WKWXU34UNUJ5RQNFM7IFNGJMMLJHK62AR",
-    "image": "https://backend.digitalworld.earth/uploads/assets/1672273425_2336a09ba3750d2c8063.jpg",
-    "org": "Zellim DINC",
-    "color": "#8ce5f7",
-    "domain": "Zellim_DINC.io",
-    "important": true
-  }
+    "issuer_orgs": [
+        {
+            "display_name": "DUSD DAO",
+            "domain": "DUSD_DAO.io",
+            "website": "https://DUSD_DAO.io",
+            "support": null,
+            "color": "#43A047",
+            "assets": [
+                {
+                    "code": "DUSD",
+                    "issuer": "GA2I6PIKH4WKAFOIHINX75R7Q2IH6V62O7U3MLNN23BCKGVKO7ZVL66V",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": true
+                }
+            ]
+        },
+        {
+            "display_name": "DBTC DAO",
+            "domain": "DBTC_DAO.io",
+            "website": "https://DBTC_DAO.io",
+            "support": null,
+            "color": "#FFA000",
+            "assets": [
+                {
+                    "code": "DBTC",
+                    "issuer": "GA3LBKF4SRHYYUYW56QHRW2JNJOC73AV4HVRZOYHUTN73JTJA3BZ3BJ4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "image": "https://backend.digitalworld.earth/uploads/assets/1743196970_4ea3ce2185aa2c0c16f0.png",
+                    "important": true
+                }
+            ]
+        },
+        {
+            "display_name": "Hawaiian Kingdom",
+            "domain": "Hawaiian_Kingdom.io",
+            "website": "https://Hawaiian_Kingdom.io",
+            "support": null,
+            "color": "#E53935",
+            "assets": [
+                {
+                    "code": "ALOHA",
+                    "issuer": "GAPBA6OUHCR3ENVTG63E4HBZREO3JOKEVMKGO25MG3QMHDH3AM6K74LY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DALA",
+                    "issuer": "GAYJHLFCRMXASP4AEKLHAGO76NCQPHFJXLV7P5LS2CUO5GTUISPVVQFL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": true
+                }
+            ]
+        },
+        {
+            "display_name": "Clear Companies",
+            "domain": "Clear_Companies.io",
+            "website": "https://Clear_Companies.io",
+            "support": null,
+            "color": "#00ACC1",
+            "assets": [
+                {
+                    "code": "CLEAR",
+                    "issuer": "GDE5NCFO3HI2VEQVVH5WYYA6AGZGWMA5VTLOHALACEL32GSLKHD3IZBE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": true
+                }
+            ]
+        },
+        {
+            "display_name": "ClearAssure",
+            "domain": "ClearAssure.io",
+            "website": "https://ClearAssure.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CASPV",
+                    "issuer": "GDBDZ6V7AWPDIIJ2AHKTLXA3YWYAAITPYUZDPYAOGT4IWTUCFSNDXXQD",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearCellular Limited",
+            "domain": "ClearCellular_Limited.io",
+            "website": "https://ClearCellular_Limited.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CCL",
+                    "issuer": "GCZBVXB5NNDVSZCM33I57BFCXG5IWH2KRXUXOILBKT4GNZDHRO3C3WKM",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearEnergy, Inc.",
+            "domain": "ClearEnergy,_Inc..io",
+            "website": "https://ClearEnergy,_Inc..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CEI",
+                    "issuer": "GC3FHCWWXLMVAORI42LYXHQ2ON4YIK6MTFB6DYC7WEZPP2OT2MOUUYAO",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearCellular, D-Corp.",
+            "domain": "ClearCellular,_D-Corp..io",
+            "website": "https://ClearCellular,_D-Corp..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CELL",
+                    "issuer": "GCVMAQSS2SCRXSEXGSNXRU7N2BE76LFLJU6EQV4BNSCRXGUYC4B57TCP",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearFoundation, LTD.",
+            "domain": "ClearFoundation,_LTD..io",
+            "website": "https://ClearFoundation,_LTD..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CFL",
+                    "issuer": "GBOUYKHNVIGIUKT4UD5JOXYATCVWW3TN4CE54HBNR5ECTXL6CAPS77PE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ABC Corp",
+            "domain": "ABC_Corp.io",
+            "website": "https://ABC_Corp.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ABCC",
+                    "issuer": "GAVVGLLCYDILSF7KLNGLMQIB7KKUAID274QIAFNVWBZPI4H3G6JSECGE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "NJ Holdings",
+            "domain": "NJ_Holdings.io",
+            "website": "https://NJ_Holdings.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ACP",
+                    "issuer": "GBEX77RJDYG2HYWV7TS7AVJSATP76JP4654C7PK5QM27EZ5NW5LYQDLJ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Liberty City",
+            "domain": "Liberty_City.io",
+            "website": "https://Liberty_City.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "AMAGI",
+                    "issuer": "GCAIKFNQLEAVDIWSF3QHKJU32IKCJ2N3XEO6YQEYFDZT64JCQCDB65OS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "LLAND",
+                    "issuer": "GB6DHCPLLTCDTYVWO7ZD6DEYA7IQDECPCB53GPWBMRTVMKUVFFAQXU3T",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Arete Management Inc ",
+            "domain": "Arete_Management_Inc_.io",
+            "website": "https://Arete_Management_Inc_.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "AMI",
+                    "issuer": "GBFENE2CPZDYQ7N4KNJH3M53XZU5PF76QAEBXOBSI7U47FZWVKB6WLA5",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "HTEST",
+            "domain": "HTEST.io",
+            "website": "https://HTEST.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ASDFGH",
+                    "issuer": "GDJYX25UUB7YF4UQLRMLUXEOXJPOL47MOVQWS3UJSEWCEIT55V4RLNGT",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "BDEST",
+                    "issuer": "GCEDLPMOUKX3HTKSSODQQA4OSGDUTUTSMFBS7W54VBXCWBI2JI4YCHW7",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "GHOSTR",
+                    "issuer": "GDECIH5VTEGHOX273QFNEH7JIIXHPXPNLPZK7MM57FJVCGSHX55MIH2M",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "GHOSTR2",
+                    "issuer": "GC55VDQQJMDDRKCWOEGCBINZN5FJWZ2TV4PAKWI7GV4BXXUD3FMTVB5C",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Assure Fund",
+            "domain": "Assure_Fund.io",
+            "website": "https://Assure_Fund.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ASSURE",
+                    "issuer": "GDP6QHNIKH5HJA35BSTDAKZZRUAHO74ZW25FCFADJN2L6EOTANLUNTBQ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "World Health Organization",
+            "domain": "World_Health_Organization.io",
+            "website": "https://World_Health_Organization.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ASTR",
+                    "issuer": "GCFW3625ACIF2D3A37D2TZPLXFURYOLAOX5V4UQHMFLYNL3DMCRLEDJF",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TESBB",
+                    "issuer": "GBZ53VO53NXD3P7ZIEBZIKKKNQ33BJABMNI6F5ZSQHLVR3RGA5KNSOU2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TEST",
+                    "issuer": "GDYSSF2AFXYBCC2NR6A7PQIU5WAY26IED4JSCTY3MIJN6DIYBDQOMZAC",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TEST11",
+                    "issuer": "GADX33RHVQXFALUOE7MP5T6MZUMEC2ABB4XU4AJXEVQ4WXSXOTA3Z3H2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TOPO5",
+                    "issuer": "GC5CIOJ63YGQSI5WJGLGHWMAEEQP46H2UPOCNBLRJVF54JNSY7TKTMBY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "V2121",
+                    "issuer": "GB63X7H4S2BIRNCVCQXKYNNRAQCUFYLHUFT6PMNNJ3EIPOCAFNQNKUTH",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "VI222",
+                    "issuer": "GBV6OWQCOF4QMOJA6UUXUS6YDPXOT2XD6ULKYHTUYCO7B2ML4QOXYKCY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "WHOC",
+                    "issuer": "GBF6OOG5BEXO2VQRDLKJ4GQK43MOI5DVJWKXBDMUJQONXA6M24U7HBXK",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Beans and Rice",
+            "domain": "Beans_and_Rice.io",
+            "website": "https://Beans_and_Rice.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "BEANS",
+                    "issuer": "GBOBJJ5RJX3BFGCRRTR7ADDYE5IS2NUKM5RBBHIBWUB72ER5IV5LM3SS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Bitchute DAO",
+            "domain": "Bitchute_DAO.io",
+            "website": "https://Bitchute_DAO.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "BIT",
+                    "issuer": "GCUIZRPHXVJAR4I6AKSYMTPK5I2K3STI2L3V4RVJSDN57HS7S3JWFAYS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "BORG",
+            "domain": "BORG.io",
+            "website": "https://BORG.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "BORG",
+                    "issuer": "GBOZOJKILMQXDDUECEDHG57AEUY37Z5ALPRREWCKHMQEDKCK4MK7YRCM",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Bob's Poultry Farm ",
+            "domain": "Bob's_Poultry_Farm_.io",
+            "website": "https://Bob's_Poultry_Farm_.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CHIK",
+                    "issuer": "GC2COH4FFU4AXHSUB7EJA5L57UWI2G3EIOZXMMSHRXQTZXR2Q4DUA77V",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearLegal",
+            "domain": "ClearLegal.io",
+            "website": "https://ClearLegal.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "CLI",
+                    "issuer": "GD25JMKCTQW5ZGJQJG7EPVZUTJZGVOJPP5KG762VMBEF3EXIHHR46TV4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "SuperWallet DAO",
+            "domain": "SuperWallet_DAO.io",
+            "website": "https://SuperWallet_DAO.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DBME",
+                    "issuer": "GA7OOXBUV2TMT37NHNSYF5RLPPIZBFJ4DTSJL762DKAL3CMLWHRW5KYW",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "D-BUSINESS",
+            "domain": "D-BUSINESS.io",
+            "website": "https://D-BUSINESS.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DBU2",
+                    "issuer": "GDEVYNZ6NVFVVGCQS2ZAZ46YOYVBKITBDFWWMSSKBLRGWSIVQJG5FE5T",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DBU3",
+                    "issuer": "GCX7XFU63GHEDBN4RMLJR5M6IUO2QTOTJPXTS3FZZNNPCSQFY7FQXZPH",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DBUS",
+                    "issuer": "GCP3IPQGRC3FVWNOKIHRKMMQREC4GWSHDEZFBTX6MVFGXMJPRGRGKWV7",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DRBT",
+                    "issuer": "GAQJK4OFJERELVN27PLFEFIM5INZUI3LOSBWCEFVTO5FDUWILJUUTNTF",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Cook Islands",
+            "domain": "Cook_Islands.io",
+            "website": "https://Cook_Islands.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DCID",
+                    "issuer": "GDUT7HN2LHWYVMQU5XFDKTTFQAAZK3IFGPHJHWK3SCLRX3EXH5I7NYEU",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "DIBI2",
+            "domain": "DIBI2.io",
+            "website": "https://DIBI2.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DIBI5",
+                    "issuer": "GAEYRMSASY4YEMQDSJ3QOEB3DWDJWASRHH765OZSKDUDBNEUPVVHCAHC",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DIBI6",
+                    "issuer": "GCFY2ULTHIJDFO3Z3LI2FXXOS72KPAJ7JCATB574S7LC5EWY7KSKRXIE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Mexican Country",
+            "domain": "Mexican_Country.io",
+            "website": "https://Mexican_Country.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DMXN",
+                    "issuer": "GDJJ65D366RJGUOQ5OZEIWIHP4Z5Y3RAI7ZIF22BJI5YXRCSIW6D5MKP",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Digital Associaton",
+            "domain": "Digital_Associaton.io",
+            "website": "https://Digital_Associaton.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DORG",
+                    "issuer": "GDSQKBFMTVJCPGC227UIHZX5UHP2JWARO2B4OV3KTEC7XIE6MFO7IZRL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Dev Test Org",
+            "domain": "Dev_Test_Org.io",
+            "website": "https://Dev_Test_Org.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DTTT",
+                    "issuer": "GA2T5IJ3T3OKAANMW5H2LAOJ35B4I7LV3HTG3ZMS4CJJVUPSPWRBVT2U",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tuvalu",
+            "domain": "Tuvalu.io",
+            "website": "https://Tuvalu.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "DTV",
+                    "issuer": "GDWR7EJKDLVNJ7X2EKYPLQFR7FIUXTIQVANSGHVSLPJE7MA2MQRGGFVM",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "DTVD",
+                    "issuer": "GBV5KPG4CB4NMGWWPDTAP7QHM4BQARNVFTROTE4WNH4JVZI2OVZU23AT",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TUVALU",
+                    "issuer": "GDPZMUCA2LTD4QOKWEJKDFVRXZC3RP6HMYASZLGT2RJXW4MLOGDHWYVZ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Costa Rica",
+            "domain": "Costa_Rica.io",
+            "website": "https://Costa_Rica.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ELC",
+                    "issuer": "GCIWMXA7CPJXVD5J4FNPAL6L4CIDMEHR3GOBWB67VYZLHPS3ZYNE3ENI",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Enable South Pacific",
+            "domain": "Enable_South_Pacific.io",
+            "website": "https://Enable_South_Pacific.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ESP",
+                    "issuer": "GDBPAUQ6GYHRAN4AWYJ6LWMQFIDFFX3AQKVABD3TDKVD3STWVE32WW3K",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "EYES688",
+            "domain": "EYES688.io",
+            "website": "https://EYES688.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "EYES",
+                    "issuer": "GBSF2N3JOFSVNL532S3KSQ5O5GJUKTVO3ZM5YELR2UMGFZMT2MW5UE6K",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Proper Farm DLLC",
+            "domain": "Proper_Farm_DLLC.io",
+            "website": "https://Proper_Farm_DLLC.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "FARM",
+                    "issuer": "GC6UJ6SEWQXG4ECFEIVMNOY72TUIXWS4E56VW3LJWSSBZL3JPNSA26OL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "PAPAYA",
+                    "issuer": "GAFAFFFHG2YNN5Z33BWGL5AJFJ73MJDDBSNCSC3OXTBMU5T7YYZJX6BX",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Fiji Airways",
+            "domain": "Fiji_Airways.io",
+            "website": "https://Fiji_Airways.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "FASR",
+                    "issuer": "GDRE2S74W2D5SDZUQ4NHACLHXGZHPX75PGU6LNBI6NNB3K4VCZTR5TAY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Fiji",
+            "domain": "Fiji.io",
+            "website": "https://Fiji.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "FIJI",
+                    "issuer": "GDIQ5LTYTYYGM2TVLTFAZVXE5BLQAVIMJB4ZKGTLYB3H7FSPU2Z2XDY4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "GR Group",
+            "domain": "GR_Group.io",
+            "website": "https://GR_Group.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "GRACE",
+                    "issuer": "GDXN7EBU5TQMDXVPWCYYNMSQQS5FTOQ4IGRX63N7HEOKWQCHLHBK4BQS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Hakodesh & Associates PTY",
+            "domain": "Hakodesh_&_Associates_PTY.io",
+            "website": "https://Hakodesh_&_Associates_PTY.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "HAPYT",
+                    "issuer": "GBP2SLJJXZRAIZMRMVLQA3KSMMTYIQWXXJKAYMCELCZO7K6ZCT4GJCR4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "HASH203",
+            "domain": "HASH203.io",
+            "website": "https://HASH203.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "HASH204",
+                    "issuer": "GBDEHISVSOE3NHXLNNSESDX2Y5SHQKLDTO5LP2ZWXPL2V43KY764OW4R",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH205",
+                    "issuer": "GDBXP2IP4HZGSG275SHEMIGV6QCD6MRVJW5BBAI4SHNKVSIMDPRFRRGX",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH206",
+                    "issuer": "GCK4MOSYGX7G4KFJ2OUD67JFPZ3OMVQCJZUKDD7WBRKQU2UFVYTGZD2E",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH207",
+                    "issuer": "GAAJHA4PYJ3Q7FE3IMA3QAL3XFPMX4RYY5EOTKZDOEGAPIA4DB3G2Z4L",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "HASH208",
+                    "issuer": "GA3MQFGKDGBWQAYJC5UK4CZVZJW542Y25D6ALEUSH4D3Z4ADTUWAXXZ2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "JayMail",
+            "domain": "JayMail.io",
+            "website": "https://JayMail.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JAY",
+                    "issuer": "GDNSHIE2GU3GL52ISZNP3WWR45RI7O3BMWFJXYL7KQODYM2ZOIRM5W26",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "JJIKE",
+            "domain": "JJIKE.io",
+            "website": "https://JJIKE.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JJIKE",
+                    "issuer": "GB3FJMX6YV57RFYZHYXPTZ6QBAJXIWDPV5UL23YPIFHIJ2PNFXQVECK4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "By John Michael",
+            "domain": "By_John_Michael.io",
+            "website": "https://By_John_Michael.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JM1",
+                    "issuer": "GBJGNKXRDP4N7E7MQ4QAPNGVZLMMEZZGSYNX63PR7VJTZHKWHRI3AQY4",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "RDT",
+                    "issuer": "GBF26KE6AY63EPDMTHFERIK2R5HZM2SZGKPUR5NGVFKNGRJIT5WYXHKY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TESTK",
+                    "issuer": "GDCXOX6PLVN7ABLVUWFJVPBBOW4JX4BASVUS7BK5AFJQVYCSXL7XBTFY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "JNT SPV",
+            "domain": "JNT_SPV.io",
+            "website": "https://JNT_SPV.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "JNT",
+                    "issuer": "GA7CCI4QRPUT36V525AGEKKK3NMOL6WKV6YGFN7Y6QAZBVYQPV3JGC6K",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearWater, DLLCT.",
+            "domain": "ClearWater,_DLLCT..io",
+            "website": "https://ClearWater,_DLLCT..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "L50CAT",
+                    "issuer": "GDJCEHVP7UJ64DCF3IIZFM3B7Y2P2DX7JOT6B3MMVQOPHLILPBZB7AV5",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Lahaina Healing Foundation",
+            "domain": "Lahaina_Healing_Foundation.io",
+            "website": "https://Lahaina_Healing_Foundation.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "LHF",
+                    "issuer": "GCMHC6J5LLP6MHZP52GFMS3V7ZULWQIVMA22EJFWCIB72CW7GEWILUYR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Kaizen, DLLC.",
+            "domain": "Kaizen,_DLLC..io",
+            "website": "https://Kaizen,_DLLC..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "LSS",
+                    "issuer": "GCHYGUFO3TPOSAZHMU7WVQFT6CMAA2XDM2MV7UT3NPUUEUGXG2OMZJST",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Letsgold",
+            "domain": "Letsgold.io",
+            "website": "https://Letsgold.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "LTG",
+                    "issuer": "GD4B2TAKM4V4T67N2HGNDVWOLBQ3HYJUFYH2DFFMFKIZIZ44PTKITFL6",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Marriott International, Inc.",
+            "domain": "Marriott_International,_Inc..io",
+            "website": "https://Marriott_International,_Inc..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "MARRIOTT",
+                    "issuer": "GDHPGU7OIA6ZJEPLCFVKFVSBRQZ64FSDJCITORRWNTDIQBAGIUOWOXA3",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Midway Holdings",
+            "domain": "Midway_Holdings.io",
+            "website": "https://Midway_Holdings.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "MHAP",
+                    "issuer": "GA6RR5NS2TSZVVBNHJNALLVADM537Q2GHOF5HSCWBZPOIEQSSV6NW4NK",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Proper Family Trust",
+            "domain": "Proper_Family_Trust.io",
+            "website": "https://Proper_Family_Trust.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "MPLI",
+                    "issuer": "GCIDN5VDWKZT5Z72M5JKUTMHBF6NSCZHIHHOSAFCKSGBBCVHCKT23W6H",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "SPLI",
+                    "issuer": "GACIXFR6SDTLOXFKZIZQQK743SC3LPWXRMRWNBPMQVMBSGJBNWF6G2VS",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Vikas Org",
+            "domain": "Vikas_Org.io",
+            "website": "https://Vikas_Org.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "POLO",
+                    "issuer": "GB26GJ5PJEPJQNKIMXSNQN4L7OLWTVSD7B7MXTY7GPFA5QTN42DTMPAX",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Nandro",
+            "domain": "Nandro.io",
+            "website": "https://Nandro.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "REEEE",
+                    "issuer": "GAYSLO37EQVDBSSV4MV4XL5TV3XW5S7ZQ6CGSYO6PDZHUX65FHED6IIJ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "RETROX",
+                    "issuer": "GCB5PJXPEMRWZKUJGDH7O2UXTFHCONBJ3R7ABKKZOLLQO2CICP3EDDV7",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Rebecca Johnston Foundation",
+            "domain": "Rebecca_Johnston_Foundation.io",
+            "website": "https://Rebecca_Johnston_Foundation.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "RJF",
+                    "issuer": "GAZIDA3UPRCBNZ5XID5XXO7WSR5ILO34T3BETT4C54UEGES6VZ2GS235",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Samoa",
+            "domain": "Samoa.io",
+            "website": "https://Samoa.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "SAMOA",
+                    "issuer": "GBQX3VM2DSKJXWDWJU4OOG4X6WLOETK2SBWJGDE3K4XZIGPQTTXYGRYN",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Space Exploration Technologies Corp.",
+            "domain": "Space_Exploration_Technologies_Corp..io",
+            "website": "https://Space_Exploration_Technologies_Corp..io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "SPACEX",
+                    "issuer": "GCCT763DQZHELHHO4QMEHG7CW4GI4GTJEKZTAZELYMSZSASJMY3SAFHL",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tuvalu First Bank",
+            "domain": "Tuvalu_First_Bank.io",
+            "website": "https://Tuvalu_First_Bank.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TFB",
+                    "issuer": "GCDB2A2QRNMDDHMMKP7FLJAR7BTPXVDUUH7YPIAB6U6F4LZ377VSY4ZT",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "new org 101",
+            "domain": "new_org_101.io",
+            "website": "https://new_org_101.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER1",
+                    "issuer": "GCKD3ZORXJZFT64CMWKAMX5STCGRK6YB5E2J4UQEZO2D2VKQ2KXKDJ2J",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "org 23",
+            "domain": "org_23.io",
+            "website": "https://org_23.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER23",
+                    "issuer": "GBCPZPT4XIHFYK6MB72XI6FI45QDL2QAKTAVBTAOIL2H27S2OHMHRCW5",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TICKER24",
+                    "issuer": "GCRTTCFFWWQ3MRCQL242CWSLHGQSXE5HGEQC7N5HXJPJOK3QRSVFYVR3",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "test organization 11",
+            "domain": "test_organization_11.io",
+            "website": "https://test_organization_11.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER30",
+                    "issuer": "GDJY73FBYBDJ6AFZXBKUCD6EAEBVPDTMMPBXX7H2PDU3SDVCNKZC6T5B",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TICKER40",
+                    "issuer": "GBTAXLK6NYWS5RRP7YMM7BIDGVE2NGVMQ6XDV4NL6TJ3PSUQYDZT3W4C",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "test 31",
+            "domain": "test_31.io",
+            "website": "https://test_31.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER31",
+                    "issuer": "GBMSIW2HV43VGJFM5TWFXX67OFF7KIUVL3M4LRYYRQUXUVLBHGX4BPXN",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "org35",
+            "domain": "org35.io",
+            "website": "https://org35.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TICKER35",
+                    "issuer": "GAODGQXOLCM6PI3QPXEGMU4HMFSMFZBRJ2XQ3AJEWV2KSNZIBN35KNQE",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tonga",
+            "domain": "Tonga.io",
+            "website": "https://Tonga.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TONGA",
+                    "issuer": "GDGH3H2NMQYUHBGNXJHLEMKJN4XUZJP5CCPRIQQ4ZKEWCQFAYJG6BHY2",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "TRUSTEEZ",
+            "domain": "TRUSTEEZ.io",
+            "website": "https://TRUSTEEZ.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TRUSTZ",
+                    "issuer": "GCDZVHJFCK6W5QKY2YVDMR2JR4XEW37IWAL6ALCS5L7X245EGAO3LAFY",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "DDDDD",
+            "domain": "DDDDD.io",
+            "website": "https://DDDDD.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TTEST2",
+                    "issuer": "GC6MUGNIY7LUULQVKD7GIEBVOKYE7RYOTDME22DFMXMSYEU5QSQXBCNV",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TTEST3",
+                    "issuer": "GDZWCRY2SUPHIQDL2HONJYZQL3DDZO63TNAXXVRXAV4XV6CMAOWAH3VU",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TTEST4",
+                    "issuer": "GDQSKE2WM7IHZTIHJ5EZIAES6SWHEX5VQ3TJQ46SQULIQZSZZPDI4FSR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                },
+                {
+                    "code": "TTEST5",
+                    "issuer": "GADEQ6PXLDQQXSHW3ATARWSW2ABA2DUAJOTSGWQTYU724G4KFUS3OONO",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "TuneTag",
+            "domain": "TuneTag.io",
+            "website": "https://TuneTag.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TUNE",
+                    "issuer": "GASUU5SSLVOQ6PAZN6UY3HGA7ZKNSXZHTPIZMDGECBCNWILZIAT3QVHC",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Tanzania",
+            "domain": "Tanzania.io",
+            "website": "https://Tanzania.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "TZS",
+                    "issuer": "GBWWWNZ3WQJ74MMHZVS7R6JIZUJUS4JW7M5JZTT6Y7PA77Q4YP5AN7CG",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Republic of the United States of America",
+            "domain": "Republic_of_the_United_States_of_America.io",
+            "website": "https://Republic_of_the_United_States_of_America.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "USC",
+                    "issuer": "GA57TW4JEPSG53AARMKUILK5ACBQ3POKRMG42YS76FAANGMNN3ATJV4U",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "ClearHomes",
+            "domain": "ClearHomes.io",
+            "website": "https://ClearHomes.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "V1550",
+                    "issuer": "GACYAUVFADAVFJMEIGNRPYCIO36FHEABJEPQNTQ5ZVG4A6NGUMBGUHBR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "VoteBound",
+            "domain": "VoteBound.io",
+            "website": "https://VoteBound.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "VOTE",
+                    "issuer": "GDGG7ISAYPDCG3N5DFPRXHL4Q7UWW7Z3YHKMOOUF4RKJPFK565KPVZKZ",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Wally Land",
+            "domain": "Wally_Land.io",
+            "website": "https://Wally_Land.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "WALLY",
+                    "issuer": "GBUEK6LWQMO47EMQSTWTT7YVFCHJYJXNJKJLTJCMCPWQ7MPOJY6KPBXR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        },
+        {
+            "display_name": "Zellim DINC",
+            "domain": "Zellim_DINC.io",
+            "website": "https://Zellim_DINC.io",
+            "support": null,
+            "color": "#8ce5f7",
+            "assets": [
+                {
+                    "code": "ZELLIM",
+                    "issuer": "GCMRRMV6IZ6CHNKCLZQTCZ3WKWXU34UNUJ5RQNFM7IFNGJMMLJHK62AR",
+                    "custom_transfer_domain": null,
+                    "custom_transfer_support": null,
+                    "is_counter_selling": false,
+                    "disabled": false,
+                    "important": false
+                }
+            ]
+        }
+    ]
 }
